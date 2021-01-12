@@ -1,0 +1,5185 @@
+[{
+    "tier": "Major",
+    "name": "China Dota2 Professional League Season 1",
+    "icon": "https://liquipedia.net/commons/images/b/b6/China_Dota2_Development_League_icon.png",
+    "dates": "Oct 17, 2019 - Mar 1, 2020",
+    "prize_pool": 212690,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "WePlay! Dota 2 Tug of War: Mad Moon",
+    "icon": "https://liquipedia.net/commons/images/e/e5/WePlay_Radiant.png",
+    "dates": "Feb 19 - 23, 2020",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Major",
+    "name": "WePlay! Bukovel Minor 2020",
+    "icon": "https://liquipedia.net/commons/images/4/4c/WePlay_Bukovel_Minor_icon.png",
+    "dates": "Jan 9 - 12, 2020",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Bukovel"
+}, {
+    "tier": "Major",
+    "name": "DOTA Summit 11",
+    "icon": "https://liquipedia.net/commons/images/7/72/Beyond_The_Summit_2018_icon.png",
+    "dates": "Nov 7 - 10, 2019",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Major",
+    "name": "Hainan Master Cup",
+    "icon": "https://liquipedia.net/commons/images/3/36/Hainan_Master_Cup_icon.png",
+    "dates": "Nov 2 - 3, 2019",
+    "prize_pool": 71003,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Haikou"
+}, {
+    "tier": "Major",
+    "name": "ESL One Hamburg 2019",
+    "icon": "https://liquipedia.net/commons/images/8/8a/ESL_One_2019_new_icon.png",
+    "dates": "Oct 22 - 27, 2019",
+    "prize_pool": 300000,
+    "teams": "12",
+    "host_location": "Germany",
+    "event_location": "Hamburg"
+}, {
+    "tier": "Major",
+    "name": "DreamLeague Season 12",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "Oct 18 - 20, 2019",
+    "prize_pool": 250000,
+    "teams": "6",
+    "host_location": "Netherlands",
+    "event_location": "Rotterdam"
+}, {
+    "tier": "Major",
+    "name": "Midas Mode 2",
+    "icon": "https://liquipedia.net/commons/images/4/42/Midas_Mode_logo_small.png",
+    "dates": "Sep 24 - Oct 2, 2019",
+    "prize_pool": 150000,
+    "teams": "12",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "DOTA Summit 10",
+    "icon": "https://liquipedia.net/commons/images/7/72/Beyond_The_Summit_2018_icon.png",
+    "dates": "Jul 25 - 28, 2019",
+    "prize_pool": 100000,
+    "teams": "6",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Major",
+    "name": "World Cyber Games 2019",
+    "icon": "https://liquipedia.net/commons/images/d/d2/WCG_icon_2019.png",
+    "dates": "Jul 18 - 21, 2019",
+    "prize_pool": 140000,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Xi'an"
+}, {
+    "tier": "Major",
+    "name": "StarLadder ImbaTV Dota 2 Minor Season 2",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Jun 12 - 16, 2019",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Major",
+    "name": "ESL One Birmingham 2019",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "May 28 - Jun 2, 2019",
+    "prize_pool": 300000,
+    "teams": "12",
+    "host_location": "United Kingdom",
+    "event_location": "Birmingham"
+}, {
+    "tier": "Major",
+    "name": "Adrenaline Cyber League 2019",
+    "icon": "https://liquipedia.net/commons/images/1/12/Adrenaline_Cyber_League_icon.png",
+    "dates": "May 25 - 26, 2019",
+    "prize_pool": 100000,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Major",
+    "name": "OGA Dota PIT Minor 2019",
+    "icon": "https://liquipedia.net/commons/images/e/ef/OGA_DOTA_Pit_icon.png",
+    "dates": "Apr 22 - 28, 2019",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Croatia",
+    "event_location": "Split"
+}, {
+    "tier": "Major",
+    "name": "ESL One Mumbai 2019",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Apr 16 - 21, 2019",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "India",
+    "event_location": "Mumbai"
+}, {
+    "tier": "Major",
+    "name": "WSOE 6: Dota 2 - Serenity's Destiny",
+    "icon": "https://liquipedia.net/commons/images/0/06/WSOE_League_icon.png",
+    "dates": "Apr 12 - 14, 2019",
+    "prize_pool": 100000,
+    "teams": "5",
+    "host_location": "United States",
+    "event_location": "Las Vegas"
+}, {
+    "tier": "Major",
+    "name": "StarLadder ImbaTV Dota 2 Minor Season 1",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Mar 7 - 10, 2019",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Major",
+    "name": "MDL Macau 2019",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "Feb 20 - 24, 2019",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Macau",
+    "event_location": "Macau"
+}, {
+    "tier": "Major",
+    "name": "ESL One Katowice 2019",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Feb 19 - 24, 2019",
+    "prize_pool": 300000,
+    "teams": "12",
+    "host_location": "Poland",
+    "event_location": "Katowice"
+}, {
+    "tier": "Major",
+    "name": "The Bucharest Minor",
+    "icon": "https://liquipedia.net/commons/images/e/ed/The_Bucharest_Minor_icon.png",
+    "dates": "Jan 9 - 13, 2019",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Romania",
+    "event_location": "Bucharest"
+}, {
+    "tier": "Major",
+    "name": "Dota2 Professional League Season 6 (2018 S2)",
+    "icon": "https://liquipedia.net/commons/images/d/dc/DPL_logo_small.png",
+    "dates": "Nov 21 - Dec 30, 2018",
+    "prize_pool": 145396,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "MegaFon Winter Clash",
+    "icon": "https://liquipedia.net/commons/images/7/72/MegaFon_Winter_Clash_icon.png",
+    "dates": "Dec 7 - 9, 2018",
+    "prize_pool": 300000,
+    "teams": "6",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Major",
+    "name": "DreamLeague Season 10",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "Oct 29 - Nov 4, 2018",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Sweden",
+    "event_location": "Stockholm"
+}, {
+    "tier": "Major",
+    "name": "ESL One Hamburg 2018",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Oct 23 - 28, 2018",
+    "prize_pool": 300000,
+    "teams": "12",
+    "host_location": "Germany",
+    "event_location": "Hamburg"
+}, {
+    "tier": "Major",
+    "name": "World Showdown of Esports #1",
+    "icon": "https://liquipedia.net/commons/images/0/06/WSOE_League_icon.png",
+    "dates": "Oct 14 - 15, 2018",
+    "prize_pool": 100000,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Las Vegas"
+}, {
+    "tier": "Major",
+    "name": "PVP Esports Championship",
+    "icon": "https://liquipedia.net/commons/images/0/0e/PVP_Esports_Championship_Logo_small.png",
+    "dates": "Oct 3 - 7, 2018",
+    "prize_pool": 200000,
+    "teams": "9",
+    "host_location": "Singapore",
+    "event_location": "Singapore"
+}, {
+    "tier": "Major",
+    "name": "DOTA Summit 9",
+    "icon": "https://liquipedia.net/commons/images/7/72/Beyond_The_Summit_2018_icon.png",
+    "dates": "Jul 25 - 29, 2018",
+    "prize_pool": 100000,
+    "teams": "6",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Major",
+    "name": "MPGL Asian Championship",
+    "icon": "https://liquipedia.net/commons/images/4/42/Mpgl_logo_small.png",
+    "dates": "Jul 6 - 8, 2018",
+    "prize_pool": 80000,
+    "teams": "4",
+    "host_location": "Thailand",
+    "event_location": "Khon Kaen"
+}, {
+    "tier": "Major",
+    "name": "GESC: Thailand Dota2 Minor",
+    "icon": "https://liquipedia.net/commons/images/4/42/GESC_Small_Logo.png",
+    "dates": "May 9 - 12, 2018",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Thailand",
+    "event_location": "Bangkok"
+}, {
+    "tier": "Major",
+    "name": "Dota2 Professional League Season 5 (2018 S1) - Top",
+    "icon": "https://liquipedia.net/commons/images/d/dc/DPL_logo_small.png",
+    "dates": "Mar 13 - Apr 22, 2018",
+    "prize_pool": 158930,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "StarLadder ImbaTV Invitational Season 5",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Apr 12 - 15, 2018",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Major",
+    "name": "DreamLeague Season 9",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "Mar 21 - 25, 2018",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Sweden",
+    "event_location": "Stockholm"
+}, {
+    "tier": "Major",
+    "name": "GESC: Indonesia Dota2 Minor",
+    "icon": "https://liquipedia.net/commons/images/4/42/GESC_Small_Logo.png",
+    "dates": "Mar 15 - 18, 2018",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Indonesia",
+    "event_location": "Jakarta"
+}, {
+    "tier": "Major",
+    "name": "StarLadder i-League Invitational Season 4",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Feb 1 - 4, 2018",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Major",
+    "name": "ESL One Genting 2018",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Jan 23 - 28, 2018",
+    "prize_pool": 400000,
+    "teams": "16",
+    "host_location": "Malaysia",
+    "event_location": "Genting Highlands"
+}, {
+    "tier": "Major",
+    "name": "Galaxy Battles II: Emerging Worlds",
+    "icon": "https://liquipedia.net/commons/images/d/d8/Galaxy_Battles-icon.png",
+    "dates": "Jan 19 - 21, 2018",
+    "prize_pool": 500000,
+    "teams": "8",
+    "host_location": "Philippines",
+    "event_location": "Ciudad de Victoria"
+}, {
+    "tier": "Major",
+    "name": "Captains Draft 4.0",
+    "icon": "https://liquipedia.net/commons/images/5/5c/Dotacinema_logo_small.png",
+    "dates": "Jan 4 - 7, 2018",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Washington"
+}, {
+    "tier": "Major",
+    "name": "DOTA Summit 8",
+    "icon": "https://liquipedia.net/commons/images/1/1d/Beyond_The_Summit_orig_icon.png",
+    "dates": "Dec 13 - 17, 2017",
+    "prize_pool": 300000,
+    "teams": "9",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Major",
+    "name": "MDL Macau",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "Dec 8 - 10, 2017",
+    "prize_pool": 300000,
+    "teams": "9",
+    "host_location": "Macau",
+    "event_location": "Macau"
+}, {
+    "tier": "Major",
+    "name": "ROG MASTERS 2017",
+    "icon": "https://liquipedia.net/commons/images/c/c7/Asus_Rog_Masters_Icon.png",
+    "dates": "Dec 7 - 10, 2017",
+    "prize_pool": 235000,
+    "teams": "6",
+    "host_location": "Malaysia",
+    "event_location": "Kuala Lumpur"
+}, {
+    "tier": "Major",
+    "name": "Perfect World Masters",
+    "icon": "https://liquipedia.net/commons/images/4/4b/Perfect_World_Masters_small_logo.png",
+    "dates": "Nov 19 - 26, 2017",
+    "prize_pool": 300000,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Major",
+    "name": "China Top 2017",
+    "icon": "https://liquipedia.net/commons/images/0/08/China_Top-icon.png",
+    "dates": "Nov 19 - 23, 2017",
+    "prize_pool": 0,
+    "teams": "4",
+    "host_location": "China",
+    "event_location": "Shenzhen"
+}, {
+    "tier": "Major",
+    "name": "Adrenaline Cyber League",
+    "icon": "https://liquipedia.net/commons/images/1/12/Adrenaline_Cyber_League_icon.png",
+    "dates": "Nov 21 - 22, 2017",
+    "prize_pool": 100000,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Major",
+    "name": "Dota2 Professional League Season 4 (2017 S2) - Top",
+    "icon": "https://liquipedia.net/commons/images/d/dc/DPL_logo_small.png",
+    "dates": "Sep 30 - Nov 12, 2017",
+    "prize_pool": 143018,
+    "teams": "9",
+    "host_location": "China",
+    "event_location": "Fuzhou"
+}, {
+    "tier": "Major",
+    "name": "AMD SAPPHIRE Dota PIT League",
+    "icon": "https://liquipedia.net/commons/images/d/de/Dotapit_logo_small.png",
+    "dates": "Nov 2 - 5, 2017",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Croatia",
+    "event_location": "Split"
+}, {
+    "tier": "Major",
+    "name": "PGL Open Bucharest",
+    "icon": "https://liquipedia.net/commons/images/5/58/PGLOpenIcon.png",
+    "dates": "Oct 19 - 22, 2017",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Romania",
+    "event_location": "Bucharest"
+}, {
+    "tier": "Major",
+    "name": "StarLadder i-League Invitational Season 3",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Oct 12 - 15, 2017",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Major",
+    "name": "DreamLeague Season 7",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "Jul 21 - 22, 2017",
+    "prize_pool": 175000,
+    "teams": "4",
+    "host_location": "United States",
+    "event_location": "Atlanta"
+}, {
+    "tier": "Major",
+    "name": "The Final Match Season 1",
+    "icon": "https://liquipedia.net/commons/images/2/28/Electronic_gaming_cup.png",
+    "dates": "Jul 7 - 9, 2017",
+    "prize_pool": 50000,
+    "teams": "8",
+    "host_location": "Peru",
+    "event_location": "Lima"
+}, {
+    "tier": "Major",
+    "name": "DreamLeague Season 7 NA Division",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "May 30 - 31, 2017",
+    "prize_pool": 12000,
+    "teams": "4",
+    "host_location": "North America",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Russian eSports Cup 2017",
+    "icon": "https://liquipedia.net/commons/images/c/c1/RussianCup2017.png",
+    "dates": "Apr 1 - May 28, 2017",
+    "prize_pool": 56620,
+    "teams": "24",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Major",
+    "name": "DreamLeague Season 7 EU Division",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "May 4 - 21, 2017",
+    "prize_pool": 56000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Mr. Cat Invitational Europe",
+    "icon": "https://liquipedia.net/commons/images/9/9e/Mr._Cat_Invitational_Europe_small_logo.png",
+    "dates": "May 2 - 18, 2017",
+    "prize_pool": 50000,
+    "teams": "10",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Dota2 Professional League Season 3 (2017 S1) - Top",
+    "icon": "https://liquipedia.net/commons/images/d/dc/DPL_logo_small.png",
+    "dates": "Mar 15 - Apr 16, 2017",
+    "prize_pool": 72583,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Elimination Mode 3.0",
+    "icon": "https://liquipedia.net/commons/images/f/fe/Moonduck_small.png",
+    "dates": "Feb 11 - 17, 2017",
+    "prize_pool": 25000,
+    "teams": "8",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Russian eSports Cup 2016",
+    "icon": "https://liquipedia.net/commons/images/1/11/RussianCup.png",
+    "dates": "Apr 9, 2016 - Jan 22, 2017",
+    "prize_pool": 42750,
+    "teams": "15",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Major",
+    "name": "Dota2 Professional League Season 2 - Top",
+    "icon": "https://liquipedia.net/commons/images/d/dc/DPL_logo_small.png",
+    "dates": "Sep 23 - Dec 31, 2016",
+    "prize_pool": 700000,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Dota2 ACE - Provisional",
+    "icon": "https://liquipedia.net/commons/images/e/ed/Dota2.ACE_logo_small.png",
+    "dates": "Oct 16 - Dec 26, 2016",
+    "prize_pool": 60976,
+    "teams": "26",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "China Top 2016",
+    "icon": "https://liquipedia.net/commons/images/0/08/China_Top-icon.png",
+    "dates": "Dec 17 - 18, 2016",
+    "prize_pool": 229950,
+    "teams": "4",
+    "host_location": "China",
+    "event_location": "Shenzhen"
+}, {
+    "tier": "Major",
+    "name": "Dota2 Professional League Season 2 - Secondary",
+    "icon": "https://liquipedia.net/commons/images/d/dc/DPL_logo_small.png",
+    "dates": "Sep 19 - Dec 13, 2016",
+    "prize_pool": 100000,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "DreamLeague Season 6",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "Nov 25 - 26, 2016",
+    "prize_pool": 185000,
+    "teams": "4",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Major",
+    "name": "ROG MASTERS 2016",
+    "icon": "https://liquipedia.net/commons/images/c/c7/Asus_Rog_Masters_Icon.png",
+    "dates": "Nov 10 - 13, 2016",
+    "prize_pool": 150000,
+    "teams": "12",
+    "host_location": "Malaysia",
+    "event_location": "Kuala Lumpur"
+}, {
+    "tier": "Major",
+    "name": "WCA2016 AM Qualifiers",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Nov 11 - 13, 2016",
+    "prize_pool": 55000,
+    "teams": "8",
+    "host_location": "Brazil",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "WESG 2016 Asia Pacific Finals",
+    "icon": "https://liquipedia.net/commons/images/a/ac/WESG_icon.png",
+    "dates": "Nov 10 - 13, 2016",
+    "prize_pool": 73350,
+    "teams": "16",
+    "host_location": "South Korea",
+    "event_location": "Goyang"
+}, {
+    "tier": "Major",
+    "name": "WCA2016 CN Qualifiers S3",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Oct 5 - Nov 12, 2016",
+    "prize_pool": 58783,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "DreamLeague Season 6 League Play",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "Oct 11 - Nov 8, 2016",
+    "prize_pool": 56000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "WESG 2016 Americas Finals",
+    "icon": "https://liquipedia.net/commons/images/a/ac/WESG_icon.png",
+    "dates": "Oct 21 - 23, 2016",
+    "prize_pool": 73919,
+    "teams": "8",
+    "host_location": "Brazil",
+    "event_location": "Sa\u0303o Paulo"
+}, {
+    "tier": "Major",
+    "name": "FACEIT Invitational",
+    "icon": "https://liquipedia.net/commons/images/5/57/FACEIT-icon.png",
+    "dates": "Oct 17 - 19, 2016",
+    "prize_pool": 25000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Nanyang Dota 2 Championships - Cruise Cup #1",
+    "icon": "https://liquipedia.net/commons/images/7/76/NanyangChampionshipsLogo_small.png",
+    "dates": "Oct 14 - 16, 2016",
+    "prize_pool": 44580,
+    "teams": "4",
+    "host_location": "China",
+    "event_location": "Offline"
+}, {
+    "tier": "Major",
+    "name": "WESG 2016 Europe & CIS Finals",
+    "icon": "https://liquipedia.net/commons/images/a/ac/WESG_icon.png",
+    "dates": "Oct 6 - 9, 2016",
+    "prize_pool": 74926,
+    "teams": "20",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Major",
+    "name": "Shanghai Dota 2 Open #2",
+    "icon": "https://liquipedia.net/commons/images/e/e1/SD2O_small.png",
+    "dates": "Sep 20 - Oct 8, 2016",
+    "prize_pool": 77912,
+    "teams": "20",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "WCA2016 CN Qualifiers S2",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Jun 13 - Sep 25, 2016",
+    "prize_pool": 59970,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "MPGL Southeast Asian Championship",
+    "icon": "https://liquipedia.net/commons/images/4/42/Mpgl_logo_small.png",
+    "dates": "Sep 9 - 11, 2016",
+    "prize_pool": 50000,
+    "teams": "10",
+    "host_location": "Malaysia",
+    "event_location": "Selangor"
+}, {
+    "tier": "Major",
+    "name": "WCA2016 EU Main Qualifier",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Aug 23 - Sep 1, 2016",
+    "prize_pool": 54500,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "WESG 2016 Middle East & Africa Finals",
+    "icon": "https://liquipedia.net/commons/images/a/ac/WESG_icon.png",
+    "dates": "Aug 26 - 28, 2016",
+    "prize_pool": 74910,
+    "teams": "8",
+    "host_location": "United Arab Emirates",
+    "event_location": "Dubai"
+}, {
+    "tier": "Major",
+    "name": "VPGame Pro League Season 2",
+    "icon": "https://liquipedia.net/commons/images/2/22/Vpgamelogo.png",
+    "dates": "Jul 20 - 31, 2016",
+    "prize_pool": 45198,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Changsha"
+}, {
+    "tier": "Major",
+    "name": "Global Grand Masters",
+    "icon": "https://liquipedia.net/commons/images/8/8f/GlobalGrandMasters_small.png",
+    "dates": "Jul 3 - 26, 2016",
+    "prize_pool": 50000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Pro Gamer League 2016 - Summer",
+    "icon": "https://liquipedia.net/commons/images/b/b7/PGL_China_icon.png",
+    "dates": "Jul 23 - 24, 2016",
+    "prize_pool": 100000,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Wuhan"
+}, {
+    "tier": "Major",
+    "name": "Dota2 Professional League Season 1",
+    "icon": "https://liquipedia.net/commons/images/d/dc/DPL_logo_small.png",
+    "dates": "May 18 - Jul 17, 2016",
+    "prize_pool": 200000,
+    "teams": "22",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "G-League 2016",
+    "icon": "https://liquipedia.net/commons/images/b/ba/Gleaguelogo_small.png",
+    "dates": "Jun 30 - Jul 9, 2016",
+    "prize_pool": 58333,
+    "teams": "15",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Major",
+    "name": "National Electronic Arena 2016",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jul 2 - 3, 2016",
+    "prize_pool": 195322,
+    "teams": "4",
+    "host_location": "China",
+    "event_location": "Beijing"
+}, {
+    "tier": "Major",
+    "name": "DreamLeague Season 5",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "May 21 - 22, 2016",
+    "prize_pool": 100000,
+    "teams": "4",
+    "host_location": "Sweden",
+    "event_location": "Stockholm"
+}, {
+    "tier": "Major",
+    "name": "WCA2016 SEA Qualifiers",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Apr 29 - May 21, 2016",
+    "prize_pool": 61092,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online & Offline"
+}, {
+    "tier": "Major",
+    "name": "WCA2016 CN Qualifiers S1",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Mar 19 - May 19, 2016",
+    "prize_pool": 61087,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Captains Draft 3.0",
+    "icon": "https://liquipedia.net/commons/images/5/5c/Dotacinema_logo_small.png",
+    "dates": "Jan 19 - Feb 17, 2016",
+    "prize_pool": 124154,
+    "teams": "8",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Dota 2 Canada Cup - Season 6",
+    "icon": "https://liquipedia.net/commons/images/9/95/CanadaCup_small.png",
+    "dates": "Nov 28, 2015 - Feb 8, 2016",
+    "prize_pool": 40763,
+    "teams": "16",
+    "host_location": "North America",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Shanghai Dota 2 Open",
+    "icon": "https://liquipedia.net/commons/images/e/e1/SD2O_small.png",
+    "dates": "Jan 1 - 3, 2016",
+    "prize_pool": 61472,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "ECL 2015 Dota 2 Autumn",
+    "icon": "https://liquipedia.net/commons/images/1/10/Ecl_logo_small.png",
+    "dates": "Oct 16 - Dec 30, 2015",
+    "prize_pool": 30816,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Beijing"
+}, {
+    "tier": "Major",
+    "name": "Dota 2 Radiant & Dire Cup 2015",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Dec 25 - 27, 2015",
+    "prize_pool": 154823,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Major",
+    "name": "D2CL Christmas Charity Magic",
+    "icon": "https://liquipedia.net/commons/images/1/15/D2cl_logo_small.png",
+    "dates": "Dec 2 - 23, 2015",
+    "prize_pool": 40180,
+    "teams": "16",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "The Defense Season 5",
+    "icon": "https://liquipedia.net/commons/images/e/ea/Thedefenselogo_small.png",
+    "dates": "Sep 7 - Dec 6, 2015",
+    "prize_pool": 78586,
+    "teams": "18",
+    "host_location": "Germany",
+    "event_location": "Berlin"
+}, {
+    "tier": "Major",
+    "name": "DreamLeague Season 4",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "Sep 29 - Nov 28, 2015",
+    "prize_pool": 150000,
+    "teams": "8",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Major",
+    "name": "PGL Dota 2 Pro-AM",
+    "icon": "https://liquipedia.net/commons/images/f/ff/PGLDota2Pro-AM_small.png",
+    "dates": "Oct 30 - Nov 24, 2015",
+    "prize_pool": 30000,
+    "teams": "16",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Dota 2 Champions League Season 6",
+    "icon": "https://liquipedia.net/commons/images/1/15/D2cl_logo_small.png",
+    "dates": "Sep 20 - Nov 12, 2015",
+    "prize_pool": 50000,
+    "teams": "16",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "World Cyber Arena 2015 - SEA Pro Qualifiers",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Oct 7 - 14, 2015",
+    "prize_pool": 102440,
+    "teams": "8",
+    "host_location": "Southeast Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "World Cyber Arena 2015 - European Pro Qualifiers",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Sep 21 - 24, 2015",
+    "prize_pool": 97500,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "G-League 2015",
+    "icon": "https://liquipedia.net/commons/images/b/ba/Gleaguelogo_small.png",
+    "dates": "May 9 - Jul 10, 2015",
+    "prize_pool": 43497,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Major",
+    "name": "World Cyber Arena 2015 - Chinese Pro Qualifiers",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Apr 14 - Jul 5, 2015",
+    "prize_pool": 129317,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Online & Offline"
+}, {
+    "tier": "Major",
+    "name": "ECL 2015 Dota 2 Spring",
+    "icon": "https://liquipedia.net/commons/images/1/10/Ecl_logo_small.png",
+    "dates": "Apr 11 - Jun 14, 2015",
+    "prize_pool": 32090,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Beijing"
+}, {
+    "tier": "Major",
+    "name": "World Cyber Arena 2015 - American Pro Qualifiers",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "May 3 - Jun 2, 2015",
+    "prize_pool": 90000,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Burbank"
+}, {
+    "tier": "Major",
+    "name": "MarsTV Dota 2 League 2015 Spring - Chinese League",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "May 7 - 21, 2015",
+    "prize_pool": 80685,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Red Bull Battle Grounds: Dota 2",
+    "icon": "https://liquipedia.net/commons/images/9/96/Red_Bull_Battle_Grounds_logo_small.png",
+    "dates": "Apr 6 - May 10, 2015",
+    "prize_pool": 88290,
+    "teams": "5",
+    "host_location": "United States",
+    "event_location": "San Francisco United States"
+}, {
+    "tier": "Major",
+    "name": "Mineski Pro-Gaming League Season 7",
+    "icon": "https://liquipedia.net/commons/images/4/42/Mpgl_logo_small.png",
+    "dates": "May 9 - 10, 2015",
+    "prize_pool": 50000,
+    "teams": "12",
+    "host_location": "Malaysia",
+    "event_location": "Selangor"
+}, {
+    "tier": "Major",
+    "name": "ASUS Play It Cool Dota 2 Invitational",
+    "icon": "https://liquipedia.net/commons/images/2/23/ROGlogo.png",
+    "dates": "May 3, 2015",
+    "prize_pool": 30000,
+    "teams": "4",
+    "host_location": "Germany",
+    "event_location": "Cologne"
+}, {
+    "tier": "Major",
+    "name": "VPGame Pro League Season 1",
+    "icon": "https://liquipedia.net/commons/images/2/22/Vpgamelogo.png",
+    "dates": "Apr 6 - 19, 2015",
+    "prize_pool": 24186,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Hangzhou"
+}, {
+    "tier": "Major",
+    "name": "Major All Stars Dota 2 Tournament",
+    "icon": "https://liquipedia.net/commons/images/1/1e/Major_all_stars_logo_small.png",
+    "dates": "Mar 20 - 22, 2015",
+    "prize_pool": 111979,
+    "teams": "8",
+    "host_location": "Malaysia",
+    "event_location": "Kuala Lampur"
+}, {
+    "tier": "Major",
+    "name": "ECL 2014 Dota 2 Autumn",
+    "icon": "https://liquipedia.net/commons/images/1/10/Ecl_logo_small.png",
+    "dates": "Sep 12 - Dec 30, 2014",
+    "prize_pool": 20930,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "OK.- Dota 2 Cup",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Dec 27 - 28, 2014",
+    "prize_pool": 37806,
+    "teams": "8",
+    "host_location": "Singapore",
+    "event_location": "Singapore"
+}, {
+    "tier": "Major",
+    "name": "G-League 2014",
+    "icon": "https://liquipedia.net/commons/images/b/ba/Gleaguelogo_small.png",
+    "dates": "Oct 25 - Dec 27, 2014",
+    "prize_pool": 43378,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Major",
+    "name": "Korea Dota League Season 4",
+    "icon": "https://liquipedia.net/commons/images/8/83/Kdl_logo_small.png",
+    "dates": "Oct 26 - Dec 20, 2014",
+    "prize_pool": 0,
+    "teams": "10",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Major",
+    "name": "Battle of Central Europe Season 3",
+    "icon": "https://liquipedia.net/commons/images/7/7d/Boce_logo_small.png",
+    "dates": "Nov 9 - Dec 19, 2014",
+    "prize_pool": 30000,
+    "teams": "16",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Esportal Dota 2 League Invitational Tournament 1",
+    "icon": "https://liquipedia.net/commons/images/b/b5/Esportal_logo_small.png",
+    "dates": "Dec 10 - 14, 2014",
+    "prize_pool": 18691,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "National Electronic Sports Open 2014",
+    "icon": "https://liquipedia.net/commons/images/1/11/NESO_small.png",
+    "dates": "Dec 6 - 7, 2014",
+    "prize_pool": 42032,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Qingdao"
+}, {
+    "tier": "Major",
+    "name": "IeSF 2014 World Championship",
+    "icon": "https://liquipedia.net/commons/images/3/3b/IeSF_Icon.png",
+    "dates": "Nov 13 - 16, 2014",
+    "prize_pool": 50000,
+    "teams": "14",
+    "host_location": "Azerbaijan",
+    "event_location": "Baku"
+}, {
+    "tier": "Major",
+    "name": "MSI Beat IT 2014",
+    "icon": "https://liquipedia.net/commons/images/0/0c/BeatIT.png",
+    "dates": "Nov 1 - 2, 2014",
+    "prize_pool": 50930,
+    "teams": "8",
+    "host_location": "Taiwan",
+    "event_location": "Taipei"
+}, {
+    "tier": "Major",
+    "name": "Brasil Game Cup 2014",
+    "icon": "https://liquipedia.net/commons/images/4/4d/BGC_logosmall.png",
+    "dates": "Oct 9 - 12, 2014",
+    "prize_pool": 24800,
+    "teams": "8",
+    "host_location": "Brazil",
+    "event_location": "Sa\u0303o Paulo"
+}, {
+    "tier": "Major",
+    "name": "Korea Dota League Season 3",
+    "icon": "https://liquipedia.net/commons/images/8/83/Kdl_logo_small.png",
+    "dates": "Aug 3 - Oct 5, 2014",
+    "prize_pool": 0,
+    "teams": "10",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Major",
+    "name": "Sina Cup Supernova Dota 2 Open Season 5",
+    "icon": "https://liquipedia.net/commons/images/7/75/Sina_logo_small.png",
+    "dates": "Sep 9 - 21, 2014",
+    "prize_pool": 16281,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "NVIDIA Game 24",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Sep 18 - 19, 2014",
+    "prize_pool": 15000,
+    "teams": "4",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "IeSF Asian Championship",
+    "icon": "https://liquipedia.net/commons/images/3/3b/IeSF_Icon.png",
+    "dates": "Sep 12 - 14, 2014",
+    "prize_pool": 10000,
+    "teams": "8",
+    "host_location": "Philippines",
+    "event_location": "Cebu City"
+}, {
+    "tier": "Major",
+    "name": "Game Show League Season 1",
+    "icon": "https://liquipedia.net/commons/images/a/ac/Game_show_league_logo_small.png",
+    "dates": "Sep 11 - 13, 2014",
+    "prize_pool": 50000,
+    "teams": "6",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Major",
+    "name": "Megafon Battle Arena",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Aug 25 - 26, 2014",
+    "prize_pool": 15000,
+    "teams": "4",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Korea Dota League Season 2",
+    "icon": "https://liquipedia.net/commons/images/8/83/Kdl_logo_small.png",
+    "dates": "Apr 27 - Jun 29, 2014",
+    "prize_pool": 109557,
+    "teams": "10",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Major",
+    "name": "V Games Tournament",
+    "icon": "https://liquipedia.net/commons/images/d/d5/Vgames_logo_small.png",
+    "dates": "Jun 2 - 25, 2014",
+    "prize_pool": 16042,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "WVW National Electronic Sports Classic June",
+    "icon": "https://liquipedia.net/commons/images/e/eb/Wvw_logo_small.png",
+    "dates": "Jun 16 - 24, 2014",
+    "prize_pool": 8240,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "GEST The Challenge #5",
+    "icon": "https://liquipedia.net/commons/images/8/8b/GEST_icon.png",
+    "dates": "Jun 16 - 23, 2014",
+    "prize_pool": 10000,
+    "teams": "16",
+    "host_location": "Southeast Asia",
+    "event_location": "Online China"
+}, {
+    "tier": "Major",
+    "name": "CDEC New Star Challenge",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jun 4 - 22, 2014",
+    "prize_pool": 16000,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "ECL 2014 Spring",
+    "icon": "https://liquipedia.net/commons/images/1/10/Ecl_logo_small.png",
+    "dates": "Mar 26 - Jun 15, 2014",
+    "prize_pool": 20935,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Korea Dota League Season 2 Tier 1",
+    "icon": "https://liquipedia.net/commons/images/8/83/Kdl_logo_small.png",
+    "dates": "Apr 27 - Jun 15, 2014",
+    "prize_pool": 64155,
+    "teams": "4",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Major",
+    "name": "American Dota League Season 2",
+    "icon": "https://liquipedia.net/commons/images/4/42/Americandotaleague.png",
+    "dates": "Apr 8 - Jun 3, 2014",
+    "prize_pool": 10000,
+    "teams": "13",
+    "host_location": "North America",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Techlabs Cup 2014 Season 2",
+    "icon": "https://liquipedia.net/commons/images/d/d3/Techlabs_logo_small.png",
+    "dates": "May 31, 2014",
+    "prize_pool": 10000,
+    "teams": "4",
+    "host_location": "Belarus",
+    "event_location": "Minsk"
+}, {
+    "tier": "Major",
+    "name": "WVW National Electronic Sports Classic April",
+    "icon": "https://liquipedia.net/commons/images/e/eb/Wvw_logo_small.png",
+    "dates": "Apr 9 - May 1, 2014",
+    "prize_pool": 9586,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "DreamHack Bucharest 2014",
+    "icon": "https://liquipedia.net/commons/images/9/90/DH-star.png",
+    "dates": "Apr 26 - 27, 2014",
+    "prize_pool": 25000,
+    "teams": "4",
+    "host_location": "Romania",
+    "event_location": "Bucharest"
+}, {
+    "tier": "Major",
+    "name": "Fragbite Masters 2014 Spring",
+    "icon": "https://liquipedia.net/commons/images/7/73/Fragbite-master-icon.png",
+    "dates": "Apr 3 - 26, 2014",
+    "prize_pool": 31100,
+    "teams": "14",
+    "host_location": "Sweden",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "MLG T.K.O. Europe",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Feb 4 - Apr 16, 2014",
+    "prize_pool": 30000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Korean Dota League",
+    "icon": "https://liquipedia.net/commons/images/8/83/Kdl_logo_small.png",
+    "dates": "Feb 16 - Apr 12, 2014",
+    "prize_pool": 112417,
+    "teams": "10",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Major",
+    "name": "MLG T.K.O. America",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Feb 4 - Apr 5, 2014",
+    "prize_pool": 30000,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Techlabs Cup 2014 Season 1",
+    "icon": "https://liquipedia.net/commons/images/d/d3/Techlabs_logo_small.png",
+    "dates": "Apr 5, 2014",
+    "prize_pool": 20000,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Major",
+    "name": "XMG Captains Draft Invitational",
+    "icon": "https://liquipedia.net/commons/images/5/5c/Dotacinema_logo_small.png",
+    "dates": "Feb 18 - Apr 1, 2014",
+    "prize_pool": 40170,
+    "teams": "6",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Netolic Pro League #5 East",
+    "icon": "https://liquipedia.net/commons/images/4/43/Netolic_Pro_League_icon.png",
+    "dates": "Feb 24 - Mar 28, 2014",
+    "prize_pool": 10500,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Korean Dota League Tier 1",
+    "icon": "https://liquipedia.net/commons/images/8/83/Kdl_logo_small.png",
+    "dates": "Feb 16 - Mar 26, 2014",
+    "prize_pool": 62331,
+    "teams": "4",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Major",
+    "name": "Monster Energy Invitational",
+    "icon": "https://liquipedia.net/commons/images/f/f9/Monster_logo_small.png",
+    "dates": "Mar 7 - 9, 2014",
+    "prize_pool": 15000,
+    "teams": "4",
+    "host_location": "United States",
+    "event_location": "Austin"
+}, {
+    "tier": "Major",
+    "name": "Sina Cup Supernova Dota 2 Open Season 3",
+    "icon": "https://liquipedia.net/commons/images/7/75/Sina_logo_small.png",
+    "dates": "Feb 25 - Mar 8, 2014",
+    "prize_pool": 14697,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Electronic Sports Prime Shock Therapy Cup",
+    "icon": "https://liquipedia.net/commons/images/6/64/Esp_logo_small.png",
+    "dates": "Jan 31 - Feb 8, 2014",
+    "prize_pool": 10000,
+    "teams": "8",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Pinnacle Pro-Am",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jan 4 - 12, 2014",
+    "prize_pool": 13668,
+    "teams": "16",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Asian Cyber Games 2013",
+    "icon": "https://liquipedia.net/commons/images/f/fe/Acg_logo_small.png",
+    "dates": "Dec 27 - 29, 2013",
+    "prize_pool": 30000,
+    "teams": "9",
+    "host_location": "Singapore",
+    "event_location": "Singapore"
+}, {
+    "tier": "Major",
+    "name": "Fengyun Dota 2 Tournament",
+    "icon": "https://liquipedia.net/commons/images/4/4c/Fengyun_logo_small.png",
+    "dates": "Dec 23 - 28, 2013",
+    "prize_pool": 13191,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Fragbite Masters",
+    "icon": "https://liquipedia.net/commons/images/7/73/Fragbite-master-icon.png",
+    "dates": "Oct 21 - Dec 14, 2013",
+    "prize_pool": 30410,
+    "teams": "32",
+    "host_location": "Sweden",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Netolic Pro League #4 West",
+    "icon": "https://liquipedia.net/commons/images/4/43/Netolic_Pro_League_icon.png",
+    "dates": "Dec 4 - 12, 2013",
+    "prize_pool": 10000,
+    "teams": "8",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "RGN League 2013/2014",
+    "icon": "https://liquipedia.net/commons/images/b/ba/Rgn_logo_small.png",
+    "dates": "May 18 - Dec 8, 2013",
+    "prize_pool": 15200,
+    "teams": "10",
+    "host_location": "Southeast Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Sina Cup Supernova Dota 2 Open Season 2",
+    "icon": "https://liquipedia.net/commons/images/7/75/Sina_logo_small.png",
+    "dates": "Nov 26 - Dec 4, 2013",
+    "prize_pool": 10670,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "MLG Fall Invitational",
+    "icon": "https://liquipedia.net/commons/images/b/b7/MLG-icon.png",
+    "dates": "Oct 18, 2013",
+    "prize_pool": 15000,
+    "teams": "4",
+    "host_location": "United States",
+    "event_location": "Winter Park"
+}, {
+    "tier": "Major",
+    "name": "Techlabs Cup 2013 Season 3",
+    "icon": "https://liquipedia.net/commons/images/d/d3/Techlabs_logo_small.png",
+    "dates": "Sep 28, 2013",
+    "prize_pool": 15000,
+    "teams": "4",
+    "host_location": "Belarus",
+    "event_location": "Minsk"
+}, {
+    "tier": "Major",
+    "name": "Sina Cup Supernova Dota 2 Open Season 1",
+    "icon": "https://liquipedia.net/commons/images/7/75/Sina_logo_small.png",
+    "dates": "Sep 9 - 16, 2013",
+    "prize_pool": 4410,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Techlabs Cup 2013 Season 2",
+    "icon": "https://liquipedia.net/commons/images/d/d3/Techlabs_logo_small.png",
+    "dates": "Aug 31, 2013",
+    "prize_pool": 10000,
+    "teams": "4",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Major",
+    "name": "Corsair Gaming Summer Tournament 2013",
+    "icon": "https://liquipedia.net/commons/images/2/23/Corsairlogo_small.png",
+    "dates": "Jun 28 - Jul 26, 2013",
+    "prize_pool": 10000,
+    "teams": "16",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "AMD Premier League Season 2",
+    "icon": "https://liquipedia.net/commons/images/f/f5/AMD_PL_logo_small.png",
+    "dates": "Jul 17 - 23, 2013",
+    "prize_pool": 5000,
+    "teams": "16",
+    "host_location": "Southeast Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Nexon Starter League",
+    "icon": "https://liquipedia.net/commons/images/4/46/Nexon_logo_small.png",
+    "dates": "Jul 6 - 14, 2013",
+    "prize_pool": 19760,
+    "teams": "8",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Major",
+    "name": "American Dota League Season 1",
+    "icon": "https://liquipedia.net/commons/images/4/42/Americandotaleague.png",
+    "dates": "May 28 - Jul 10, 2013",
+    "prize_pool": 10000,
+    "teams": "10",
+    "host_location": "North America",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "E2Max L33t Championship",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jul 7, 2013",
+    "prize_pool": 10400,
+    "teams": "16",
+    "host_location": "Singapore",
+    "event_location": "Singapore"
+}, {
+    "tier": "Major",
+    "name": "Curse Dota 2 Invitational",
+    "icon": "https://liquipedia.net/commons/images/c/c8/Curse_logo_small.png",
+    "dates": "May 4 - 19, 2013",
+    "prize_pool": 10000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "AMD Premier League Season 1",
+    "icon": "https://liquipedia.net/commons/images/f/f5/AMD_PL_logo_small.png",
+    "dates": "May 6 - 15, 2013",
+    "prize_pool": 5000,
+    "teams": "20",
+    "host_location": "Southeast Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "WePlay Dota2 League Season 1",
+    "icon": "https://liquipedia.net/commons/images/1/1c/WePlay_logo.png",
+    "dates": "Mar 9 - May 13, 2013",
+    "prize_pool": 8700,
+    "teams": "32",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "DreamHack Invitational 2013",
+    "icon": "https://liquipedia.net/commons/images/9/90/DH-star.png",
+    "dates": "Mar 14 - Apr 18, 2013",
+    "prize_pool": 6000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Ritmix Russian Dota 2 League",
+    "icon": "https://liquipedia.net/commons/images/7/78/RDL_logo_small.png",
+    "dates": "Mar 20 - 31, 2013",
+    "prize_pool": 6000,
+    "teams": "8",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Techlabs Cup 2013 Season 1",
+    "icon": "https://liquipedia.net/commons/images/d/d3/Techlabs_logo_small.png",
+    "dates": "Mar 23, 2013",
+    "prize_pool": 10000,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Major",
+    "name": "Armaggeddon Dota 2 Grand Slam Asia 2013",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Mar 7 - 10, 2013",
+    "prize_pool": 22500,
+    "teams": "12",
+    "host_location": "Singapore",
+    "event_location": "Singapore"
+}, {
+    "tier": "Major",
+    "name": "GosuLeague Season 5 Division 1",
+    "icon": "https://liquipedia.net/commons/images/9/99/GGnetlogo_small.png",
+    "dates": "Nov 8 - Dec 22, 2012",
+    "prize_pool": 5000,
+    "teams": "8",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "GosuLeague Season 4 Divison 1",
+    "icon": "https://liquipedia.net/commons/images/9/99/GGnetlogo_small.png",
+    "dates": "Oct 2 - 28, 2012",
+    "prize_pool": 5000,
+    "teams": "8",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Alienware 2012 Battlegrounds",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Aug 1 - Sep 25, 2012",
+    "prize_pool": 3000,
+    "teams": "8",
+    "host_location": "Southeast Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "WCG Asian Championship 2012",
+    "icon": "https://liquipedia.net/commons/images/b/bc/Wcg_logo.png",
+    "dates": "Sep 8 - 9, 2012",
+    "prize_pool": 6000,
+    "teams": "7",
+    "host_location": "Malaysia",
+    "event_location": "Kuala Lampur"
+}, {
+    "tier": "Major",
+    "name": "Samsung European Encounter",
+    "icon": "https://liquipedia.net/commons/images/b/bc/Wcg_logo.png",
+    "dates": "Aug 17 - 19, 2012",
+    "prize_pool": 7389,
+    "teams": "8",
+    "host_location": "Germany",
+    "event_location": "Cologne"
+}, {
+    "tier": "Major",
+    "name": "ProDOTA2 Non-Pro League Season 1",
+    "icon": "https://liquipedia.net/commons/images/b/b7/Prodotalogo_small.png",
+    "dates": "Apr 13 - Jul 31, 2012",
+    "prize_pool": 10000,
+    "teams": "36",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "GosuLeague Season 3",
+    "icon": "https://liquipedia.net/commons/images/9/99/GGnetlogo_small.png",
+    "dates": "Jul 7 - 30, 2012",
+    "prize_pool": 5000,
+    "teams": "24",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "GosuLeague Season 2",
+    "icon": "https://liquipedia.net/commons/images/9/99/GGnetlogo_small.png",
+    "dates": "Jun 5 - Jul 1, 2012",
+    "prize_pool": 3500,
+    "teams": "24",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Gigabyte Dota 2 Masters",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Apr 30 - Jun 23, 2012",
+    "prize_pool": 5000,
+    "teams": "24",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "GosuLeague Season 1",
+    "icon": "https://liquipedia.net/commons/images/9/99/GGnetlogo_small.png",
+    "dates": "May 1 - 23, 2012",
+    "prize_pool": 1500,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Dota2Replays Brawl",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Feb 11 - Mar 11, 2012",
+    "prize_pool": 6000,
+    "teams": "4",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Major",
+    "name": "Razer Dota 2 Tournament",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Mar 8 - 11, 2012",
+    "prize_pool": 4000,
+    "teams": "14",
+    "host_location": "Singapore",
+    "event_location": "Singapore"
+}, {
+    "tier": "Major",
+    "name": "Malaysia Invitational",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Dec 17 - 18, 2011",
+    "prize_pool": 10000,
+    "teams": "8",
+    "host_location": "Malaysia",
+    "event_location": "Kuala Lampur"
+}, {
+    "tier": "Major",
+    "name": "DreamHack Winter 2011",
+    "icon": "https://liquipedia.net/commons/images/9/90/DH-star.png",
+    "dates": "Nov 24 - 26, 2011",
+    "prize_pool": 14500,
+    "teams": "8",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Minor",
+    "name": "Mango Tango League Non-Pro Division A",
+    "icon": "https://liquipedia.net/commons/images/5/57/Logo_nonpro.svg",
+    "dates": "Dec 12 - 25, 2019",
+    "prize_pool": 10000,
+    "teams": "16",
+    "host_location": "CIS",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Pacific Predator League 2020 Bangladesh Finals",
+    "icon": "https://liquipedia.net/commons/images/6/69/Predator_League_Icon.png",
+    "dates": "Dec 24, 2019",
+    "prize_pool": 7200,
+    "teams": "2",
+    "host_location": "Bangladesh",
+    "event_location": "Dhaka"
+}, {
+    "tier": "Minor",
+    "name": "Parimatch League Season 1 Relegation",
+    "icon": "https://liquipedia.net/commons/images/5/52/Parimatch_League_icon.png",
+    "dates": "Dec 20 - 21, 2019",
+    "prize_pool": 0,
+    "teams": "4",
+    "host_location": "CIS",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "AEF Premier League Season 3: Premier Division",
+    "icon": "https://liquipedia.net/commons/images/4/42/Australian_eSports_Federation_icon.png",
+    "dates": "Oct 28 - Dec 21, 2019",
+    "prize_pool": 3419,
+    "teams": "8",
+    "host_location": "Australia",
+    "event_location": "Online & Offline"
+}, {
+    "tier": "Minor",
+    "name": "X-Bet.co Rampage Series #6",
+    "icon": "https://liquipedia.net/commons/images/5/59/X-Bet.co_icon.png",
+    "dates": "Dec 9 - 15, 2019",
+    "prize_pool": 5000,
+    "teams": "8",
+    "host_location": "South America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "SECTOR: MOSTBET DOTA 2",
+    "icon": "https://liquipedia.net/commons/images/b/bb/SECTOR_MOSTBET_icon.png",
+    "dates": "Nov 19 - Dec 15, 2019",
+    "prize_pool": 9875,
+    "teams": "11",
+    "host_location": "CIS",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "IeSF World Championship 2019",
+    "icon": "https://liquipedia.net/commons/images/3/3b/IeSF_Icon.png",
+    "dates": "Dec 11 - 15, 2019",
+    "prize_pool": 25000,
+    "teams": "21",
+    "host_location": "South Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Minor",
+    "name": "Russian eSports Cup 2019",
+    "icon": "https://liquipedia.net/commons/images/c/c1/RussianCup2017.png",
+    "dates": "Nov 2 - Dec 15, 2019",
+    "prize_pool": 23478,
+    "teams": "59",
+    "host_location": "Russia",
+    "event_location": "Kazan"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 China Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Dec 11 - 14, 2019",
+    "prize_pool": 0,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Suzhou"
+}, {
+    "tier": "Minor",
+    "name": "Kyivstar Autumn Cup",
+    "icon": "https://liquipedia.net/commons/images/0/09/Kyivstar_Autumn_Cup_league_icon.png",
+    "dates": "Dec 8 - 14, 2019",
+    "prize_pool": 4000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "CyberAvon",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Dec 14, 2019",
+    "prize_pool": 1565,
+    "teams": "8",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Minor",
+    "name": "Asian DOTA2 Gold Occupation Competition S8",
+    "icon": "https://liquipedia.net/commons/images/d/d3/ADGOC_icon.png",
+    "dates": "Nov 25 - Dec 13, 2019",
+    "prize_pool": 42601,
+    "teams": "9",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Pacific Predator League 2020 Mongolia Finals",
+    "icon": "https://liquipedia.net/commons/images/6/69/Predator_League_Icon.png",
+    "dates": "Dec 9 - 13, 2019",
+    "prize_pool": 2217,
+    "teams": "",
+    "host_location": "Mongolia",
+    "event_location": "Ulaanbaatar"
+}, {
+    "tier": "Minor",
+    "name": "LPL Challenger Season 4",
+    "icon": "https://liquipedia.net/commons/images/1/1d/LPL_Pro_League_icon.png",
+    "dates": "Nov 5 - Dec 12, 2019",
+    "prize_pool": 684,
+    "teams": "6",
+    "host_location": "Australia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Challenger League Season 4",
+    "icon": "https://liquipedia.net/commons/images/c/c5/Asia_Challenger_League_icon.png",
+    "dates": "Nov 13 - Dec 12, 2019",
+    "prize_pool": 42601,
+    "teams": "10",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "LPL Pro Season 4",
+    "icon": "https://liquipedia.net/commons/images/1/1d/LPL_Pro_League_icon.png",
+    "dates": "Nov 5 - Dec 12, 2019",
+    "prize_pool": 1710,
+    "teams": "6",
+    "host_location": "Australia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "30th Southeast Asian Games",
+    "icon": "https://liquipedia.net/commons/images/7/71/Esports_SEA_Games.png",
+    "dates": "Dec 7 - 9, 2019",
+    "prize_pool": 0,
+    "teams": "8",
+    "host_location": "Philippines",
+    "event_location": "Manila"
+}, {
+    "tier": "Minor",
+    "name": "Asian Hero League",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Nov 25 - Dec 8, 2019",
+    "prize_pool": 28401,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Movistar Liga Pro Gaming Season 2",
+    "icon": "https://liquipedia.net/commons/images/b/bc/Mlpg-icon.png",
+    "dates": "Nov 14 - Dec 8, 2019",
+    "prize_pool": 10000,
+    "teams": "10",
+    "host_location": "Peru",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 North America Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Dec 7 - 8, 2019",
+    "prize_pool": 40000,
+    "teams": "2",
+    "host_location": "Canada",
+    "event_location": "Montre\u0301al"
+}, {
+    "tier": "Minor",
+    "name": "VOKA League DOTA Season 1",
+    "icon": "https://liquipedia.net/commons/images/a/a4/VOKA_League_icon.png",
+    "dates": "Nov 11 - Dec 6, 2019",
+    "prize_pool": 2499,
+    "teams": "8",
+    "host_location": "Belarus",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Tempest Challenge Cup",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Nov 25 - Dec 2, 2019",
+    "prize_pool": 7115,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ESL Championnat National Winter 2019",
+    "icon": "https://liquipedia.net/commons/images/9/9d/ESL_Championnat_National_2019_icon.png",
+    "dates": "Sep 22 - Dec 1, 2019",
+    "prize_pool": 3295,
+    "teams": "8",
+    "host_location": "France",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 China - Southern Circuit",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Nov 30 - Dec 1, 2019",
+    "prize_pool": 11384,
+    "teams": "6",
+    "host_location": "China",
+    "event_location": "Xiamen"
+}, {
+    "tier": "Minor",
+    "name": "Ukrainian Dota 2 Championship 2019",
+    "icon": "https://liquipedia.net/commons/images/b/b1/Uesf_league_icon.png",
+    "dates": "Nov 28 - Dec 1, 2019",
+    "prize_pool": 20000,
+    "teams": "26",
+    "host_location": "Ukraine",
+    "event_location": "Dnipro"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 China Online Qualifier",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Nov 25 - 30, 2019",
+    "prize_pool": 2704,
+    "teams": "",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Pacific Predator League 2020 Philippines Finals",
+    "icon": "https://liquipedia.net/commons/images/6/69/Predator_League_Icon.png",
+    "dates": "Nov 30, 2019",
+    "prize_pool": 4917,
+    "teams": "4",
+    "host_location": "Philippines",
+    "event_location": "Manila"
+}, {
+    "tier": "Minor",
+    "name": "Brazilian Dota 2 Championships",
+    "icon": "https://liquipedia.net/commons/images/9/97/Brazilian_Dota_2_Championships_league_icon.png",
+    "dates": "Nov 25 - 30, 2019",
+    "prize_pool": 1182,
+    "teams": "8",
+    "host_location": "Brazil",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Parimatch League Season 1",
+    "icon": "https://liquipedia.net/commons/images/5/52/Parimatch_League_icon.png",
+    "dates": "Nov 28 - 30, 2019",
+    "prize_pool": 70000,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Minor",
+    "name": "Asia Pacific Predator League 2020 Myanmar Finals",
+    "icon": "https://liquipedia.net/commons/images/6/69/Predator_League_Icon.png",
+    "dates": "Nov 23 - 28, 2019",
+    "prize_pool": 3300,
+    "teams": "4",
+    "host_location": "Myanmar",
+    "event_location": "Yangon"
+}, {
+    "tier": "Minor",
+    "name": "GGBET Championship",
+    "icon": "https://liquipedia.net/commons/images/7/70/GGBET_Championship_logo_std.png",
+    "dates": "Nov 16 - 25, 2019",
+    "prize_pool": 10000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Hashtag Indy Tournament Season 2",
+    "icon": "https://liquipedia.net/commons/images/c/c8/Hashtag_dota_league_icon.png",
+    "dates": "Nov 6 - 25, 2019",
+    "prize_pool": 13264,
+    "teams": "8",
+    "host_location": "Thailand",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Battle of Cities",
+    "icon": "https://liquipedia.net/commons/images/9/94/Boc_sm.png",
+    "dates": "Nov 24, 2019",
+    "prize_pool": 2934,
+    "teams": "6",
+    "host_location": "Belarus",
+    "event_location": "Minsk"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 China - Western Circuit",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Nov 23 - 24, 2019",
+    "prize_pool": 11366,
+    "teams": "6",
+    "host_location": "China",
+    "event_location": "Chongqing"
+}, {
+    "tier": "Minor",
+    "name": "ESL India Premiership 2019 Fall Masters League Finals",
+    "icon": "https://liquipedia.net/commons/images/4/49/ESL_India_Premiership_2019_icon.png",
+    "dates": "Nov 21 - 23, 2019",
+    "prize_pool": 14298,
+    "teams": "4",
+    "host_location": "India",
+    "event_location": "Hyderabad"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 China - Northern Circuit",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Nov 16 - 17, 2019",
+    "prize_pool": 11413,
+    "teams": "6",
+    "host_location": "China",
+    "event_location": "Shenyang"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Central Asia Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Nov 16 - 17, 2019",
+    "prize_pool": 3867,
+    "teams": "6",
+    "host_location": "Kazakhstan",
+    "event_location": "Almaty"
+}, {
+    "tier": "Minor",
+    "name": "ESL Adria League Season 4",
+    "icon": "https://liquipedia.net/commons/images/d/dd/ESL_Adria_League_2019_icon.png",
+    "dates": "Nov 17, 2019",
+    "prize_pool": 11034,
+    "teams": "4",
+    "host_location": "Croatia",
+    "event_location": "Zagreb"
+}, {
+    "tier": "Minor",
+    "name": "JBO Asian Masters League S2",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Nov 11 - 16, 2019",
+    "prize_pool": 42799,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asian DOTA2 Gold Occupation Competition S7",
+    "icon": "https://liquipedia.net/commons/images/d/d3/ADGOC_icon.png",
+    "dates": "Nov 1 - 15, 2019",
+    "prize_pool": 42729,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Elite Cup Season 2",
+    "icon": "https://liquipedia.net/commons/images/3/3b/Elite_cup_icon.png",
+    "dates": "Nov 3 - 15, 2019",
+    "prize_pool": 28486,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Parimatch League Season 1 Round Robin",
+    "icon": "https://liquipedia.net/commons/images/5/52/Parimatch_League_icon.png",
+    "dates": "Oct 11 - Nov 15, 2019",
+    "prize_pool": 5000,
+    "teams": "8",
+    "host_location": "CIS",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Masters Tournament Season 2",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Nov 1 - 12, 2019",
+    "prize_pool": 28528,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "God League",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Nov 4 - 11, 2019",
+    "prize_pool": 14309,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Underdogs League Season 1 Division A",
+    "icon": "https://liquipedia.net/commons/images/e/eb/Underdogs_League_std_logo.png",
+    "dates": "Oct 18 - Nov 10, 2019",
+    "prize_pool": 1400,
+    "teams": "9",
+    "host_location": "Americas",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 China - Eastern Circuit",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Nov 9 - 10, 2019",
+    "prize_pool": 11447,
+    "teams": "6",
+    "host_location": "China",
+    "event_location": "Hefei"
+}, {
+    "tier": "Minor",
+    "name": "Asia Pacific Predator League 2020 Malaysia Finals",
+    "icon": "https://liquipedia.net/commons/images/6/69/Predator_League_Icon.png",
+    "dates": "Nov 9 - 10, 2019",
+    "prize_pool": 11540,
+    "teams": "16",
+    "host_location": "Malaysia",
+    "event_location": "Kuala Lumpur"
+}, {
+    "tier": "Minor",
+    "name": "Battle Of The Cities",
+    "icon": "https://liquipedia.net/commons/images/0/0f/Battle_of_the_Cities_league_icon.png",
+    "dates": "Nov 9, 2019",
+    "prize_pool": 6264,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "St. Petersburg"
+}, {
+    "tier": "Minor",
+    "name": "Movistar Liga Pro Gaming Season 1 Relegation",
+    "icon": "https://liquipedia.net/commons/images/b/bc/Mlpg-icon.png",
+    "dates": "Nov 5 - 6, 2019",
+    "prize_pool": 0,
+    "teams": "3",
+    "host_location": "Peru",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Movistar Liga Pro Gaming Season 1",
+    "icon": "https://liquipedia.net/commons/images/b/bc/Mlpg-icon.png",
+    "dates": "Sep 12 - Nov 6, 2019",
+    "prize_pool": 5000,
+    "teams": "8",
+    "host_location": "Peru",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Movistar LPG Promocional Season 1",
+    "icon": "https://liquipedia.net/commons/images/b/bc/Mlpg-icon.png",
+    "dates": "Sep 29 - Nov 3, 2019",
+    "prize_pool": 0,
+    "teams": "8",
+    "host_location": "Peru",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "META'19 Alfa Donate",
+    "icon": "https://liquipedia.net/commons/images/9/94/META_sm.png",
+    "dates": "Nov 3, 2019",
+    "prize_pool": 3188,
+    "teams": "4",
+    "host_location": "Belarus",
+    "event_location": "Minsk"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Southeast Asia Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Oct 31 - Nov 3, 2019",
+    "prize_pool": 15000,
+    "teams": "10",
+    "host_location": "Malaysia",
+    "event_location": "Kuala Lumpur"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Canada Closed Qualifier",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Nov 2 - 3, 2019",
+    "prize_pool": 15000,
+    "teams": "6",
+    "host_location": "Canada",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Ulyanovsk Region Open Cup 2019",
+    "icon": "https://liquipedia.net/commons/images/3/30/UlCL_sm.png",
+    "dates": "Nov 2 - 3, 2019",
+    "prize_pool": 784,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Ulyanovsk"
+}, {
+    "tier": "Minor",
+    "name": "Good Line Open XI Novokuznetsk",
+    "icon": "https://liquipedia.net/commons/images/2/27/GLO_small.png",
+    "dates": "Nov 3, 2019",
+    "prize_pool": 862,
+    "teams": "2",
+    "host_location": "Russia",
+    "event_location": "Novokuznetsk"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 USA Closed Qualifier",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Nov 2, 2019",
+    "prize_pool": 15000,
+    "teams": "6",
+    "host_location": "United States",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Challenger League Season 3",
+    "icon": "https://liquipedia.net/commons/images/c/c5/Asia_Challenger_League_icon.png",
+    "dates": "Oct 1 - 31, 2019",
+    "prize_pool": 42513,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Kazakhstan Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Oct 27, 2019",
+    "prize_pool": 1560,
+    "teams": "2",
+    "host_location": "Kazakhstan",
+    "event_location": "Nur-Sultan"
+}, {
+    "tier": "Minor",
+    "name": "Asia DOTA2 Master League Season 2",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Asia_Master_League_League_Icon.png",
+    "dates": "Oct 19 - 27, 2019",
+    "prize_pool": 28289,
+    "teams": "14",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ESL Clash of Nations Bangkok 2019",
+    "icon": "https://liquipedia.net/commons/images/0/00/ESL_CON_Bangkok.png",
+    "dates": "Oct 24 - 27, 2019",
+    "prize_pool": 50000,
+    "teams": "8",
+    "host_location": "Thailand",
+    "event_location": "Bangkok"
+}, {
+    "tier": "Minor",
+    "name": "Elite Cup Season 1",
+    "icon": "https://liquipedia.net/commons/images/3/3b/Elite_cup_icon.png",
+    "dates": "Oct 11 - 25, 2019",
+    "prize_pool": 28278,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Red Star Cup",
+    "icon": "https://liquipedia.net/commons/images/2/23/Red_Star_Cup_league_icon.png",
+    "dates": "Oct 15 - 25, 2019",
+    "prize_pool": 14139,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ESL India Premiership 2019 Fall Masters League Phase 2",
+    "icon": "https://liquipedia.net/commons/images/4/49/ESL_India_Premiership_2019_icon.png",
+    "dates": "Sep 6 - Oct 24, 2019",
+    "prize_pool": 1129,
+    "teams": "8",
+    "host_location": "India",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Cup Of The Ancients Season 2",
+    "icon": "https://liquipedia.net/commons/images/9/97/Cup_Of_The_Ancients_league_icon.png",
+    "dates": "Oct 12 - 20, 2019",
+    "prize_pool": 4570,
+    "teams": "8",
+    "host_location": "Peru",
+    "event_location": ""
+}, {
+    "tier": "Minor",
+    "name": "Queen of Hearts 2019",
+    "icon": "https://liquipedia.net/commons/images/5/5c/Queen-of-Hearts-icon.png",
+    "dates": "Oct 19, 2019",
+    "prize_pool": 5528,
+    "teams": "8",
+    "host_location": "Brazil",
+    "event_location": "Online & Offline"
+}, {
+    "tier": "Minor",
+    "name": "VARENA DOTA2 Challenge Season 2",
+    "icon": "https://liquipedia.net/commons/images/4/4e/VARENA_icon.png",
+    "dates": "Oct 12 - 18, 2019",
+    "prize_pool": 4945,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "VKGAME BATTLE OF DAWN",
+    "icon": "https://liquipedia.net/commons/images/e/e6/Battle_of_Dawn_icon.png",
+    "dates": "Oct 11 - 18, 2019",
+    "prize_pool": 70642,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "OMG Cup",
+    "icon": "https://liquipedia.net/commons/images/6/66/OMG_Cup_small.png",
+    "dates": "Oct 11 - 16, 2019",
+    "prize_pool": 5000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asian DOTA2 Gold Occupation Invitational Competition S6",
+    "icon": "https://liquipedia.net/commons/images/d/d3/ADGOC_icon.png",
+    "dates": "Sep 27 - Oct 14, 2019",
+    "prize_pool": 14082,
+    "teams": "10",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Vietnam Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Oct 5 - 6, 2019",
+    "prize_pool": 1500,
+    "teams": "3",
+    "host_location": "Vietnam",
+    "event_location": ""
+}, {
+    "tier": "Minor",
+    "name": "DreamHack Weekly Grand Finals",
+    "icon": "https://liquipedia.net/commons/images/9/97/DreamHack_Weekly_logo_small.png",
+    "dates": "Oct 6, 2019",
+    "prize_pool": 2196,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Dew Arena 2019",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Oct 3 - 5, 2019",
+    "prize_pool": 10578,
+    "teams": "4",
+    "host_location": "India",
+    "event_location": "Delhi"
+}, {
+    "tier": "Minor",
+    "name": "ESL Thailand Championship Season 2",
+    "icon": "https://liquipedia.net/commons/images/2/2c/ESL_Thailand_Championship_Icon.png",
+    "dates": "Jul 20 - Oct 4, 2019",
+    "prize_pool": 12000,
+    "teams": "8",
+    "host_location": "Thailand",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "LPL Pro Season 3",
+    "icon": "https://liquipedia.net/commons/images/1/1d/LPL_Pro_League_icon.png",
+    "dates": "Aug 20 - Oct 1, 2019",
+    "prize_pool": 1842,
+    "teams": "6",
+    "host_location": "Australia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Communication League Season 2",
+    "icon": "https://liquipedia.net/commons/images/d/d1/Asia_Communication_League_icon.png",
+    "dates": "Sep 23 - 30, 2019",
+    "prize_pool": 41997,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Indonesia Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Sep 28 - 29, 2019",
+    "prize_pool": 1500,
+    "teams": "4",
+    "host_location": "Indonesia",
+    "event_location": "Jakarta"
+}, {
+    "tier": "Minor",
+    "name": "Qazaq Federation League 2019",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Sep 24 - 29, 2019",
+    "prize_pool": 3900,
+    "teams": "8",
+    "host_location": "Kazakhstan",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Masters Tournament Season 1",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Sep 16 - 29, 2019",
+    "prize_pool": 28058,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Intel Gamer Days Dota 2",
+    "icon": "https://liquipedia.net/commons/images/f/f7/Intel-icon.png",
+    "dates": "Sep 28 - 29, 2019",
+    "prize_pool": 1554,
+    "teams": "",
+    "host_location": "CIS",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Game Cup Cee",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Sep 28 - 29, 2019",
+    "prize_pool": 3975,
+    "teams": "4",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Minor",
+    "name": "ESL ANZ Championship - Season 4",
+    "icon": "https://liquipedia.net/commons/images/6/64/ESL_AU_%26_NZ_Championship_2019_icon.png",
+    "dates": "Sep 9 - 29, 2019",
+    "prize_pool": 6755,
+    "teams": "4",
+    "host_location": "Australia",
+    "event_location": "Sydney"
+}, {
+    "tier": "Minor",
+    "name": "ESL Vietnam Championship Season 2",
+    "icon": "https://liquipedia.net/commons/images/8/81/ESL_Vietnam_Championship_Icon.png",
+    "dates": "Jul 19 - Sep 29, 2019",
+    "prize_pool": 12000,
+    "teams": "4",
+    "host_location": "Vietnam",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ESL MY&SG Championship Season 2",
+    "icon": "https://liquipedia.net/commons/images/3/36/ESL_MYSG_Championship_Icon.png",
+    "dates": "Jul 20 - Sep 29, 2019",
+    "prize_pool": 12000,
+    "teams": "8",
+    "host_location": "Malaysia",
+    "event_location": "Online Singapore"
+}, {
+    "tier": "Minor",
+    "name": "WePlay! Reshuffle Madness 2019",
+    "icon": "https://liquipedia.net/commons/images/9/9d/WePlay_Reshuffle_Madness_2019_mini.png",
+    "dates": "Sep 21 - 28, 2019",
+    "prize_pool": 50000,
+    "teams": "18",
+    "host_location": "Europe",
+    "event_location": "Online CIS"
+}, {
+    "tier": "Minor",
+    "name": "Taiwan Excellence Gaming Cup 2019",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Sep 27 - 28, 2019",
+    "prize_pool": 7094,
+    "teams": "8",
+    "host_location": "India",
+    "event_location": "Mumbai"
+}, {
+    "tier": "Minor",
+    "name": "Asian DOTA2 Gold Occupation Invitational Competition S5",
+    "icon": "https://liquipedia.net/commons/images/d/d3/ADGOC_icon.png",
+    "dates": "Sep 14 - 26, 2019",
+    "prize_pool": 16833,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Blue Dota Championships",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Sep 14 - 25, 2019",
+    "prize_pool": 14036,
+    "teams": "14",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia DOTA2 Master League Season 1",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Asia_Master_League_League_Icon.png",
+    "dates": "Sep 15 - 24, 2019",
+    "prize_pool": 42212,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "VS Gaming League Masters 2019",
+    "icon": "https://liquipedia.net/commons/images/9/95/VS_Gaming-Icon.png",
+    "dates": "Sep 23 - 24, 2019",
+    "prize_pool": 38336,
+    "teams": "8",
+    "host_location": "South Africa",
+    "event_location": "Midrand"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Philippines Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Sep 21 - 22, 2019",
+    "prize_pool": 1500,
+    "teams": "4",
+    "host_location": "Philippines",
+    "event_location": "Quezon City"
+}, {
+    "tier": "Minor",
+    "name": "Ulyanovsk Cyber League Season 1",
+    "icon": "https://liquipedia.net/commons/images/3/30/UlCL_sm.png",
+    "dates": "Sep 21 - 22, 2019",
+    "prize_pool": 705,
+    "teams": "8",
+    "host_location": "Russia",
+    "event_location": "Ulyanovsk"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Brunei Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Sep 14 - 15, 2019",
+    "prize_pool": 1500,
+    "teams": "4",
+    "host_location": "Brunei",
+    "event_location": "Bandar Seri Begawan"
+}, {
+    "tier": "Minor",
+    "name": "ESL Indonesia Championship Season 2",
+    "icon": "https://liquipedia.net/commons/images/9/90/ESL_Indonesia_small.png",
+    "dates": "Jul 16 - Sep 15, 2019",
+    "prize_pool": 20000,
+    "teams": "4",
+    "host_location": "Indonesia",
+    "event_location": "Jakarta"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Thailand Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Sep 14, 2019",
+    "prize_pool": 1200,
+    "teams": "2",
+    "host_location": "Thailand",
+    "event_location": "Bangkok"
+}, {
+    "tier": "Minor",
+    "name": "F5 Dota2 Big Lan Cup V",
+    "icon": "https://liquipedia.net/commons/images/d/de/Mscchamp_2019_sm.png",
+    "dates": "Sep 13 - 14, 2019",
+    "prize_pool": 779,
+    "teams": "32",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Minor",
+    "name": "Asia Communication League Season 1",
+    "icon": "https://liquipedia.net/commons/images/d/d1/Asia_Communication_League_icon.png",
+    "dates": "Sep 7 - 13, 2019",
+    "prize_pool": 28238,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ESL T\u00fcrkiye \u015eampiyonas\u0131 - Summer 2019",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Sep 12, 2019",
+    "prize_pool": 0,
+    "teams": "2",
+    "host_location": "Turkey",
+    "event_location": "Izmir"
+}, {
+    "tier": "Minor",
+    "name": "Asia Challenger League Season 2",
+    "icon": "https://liquipedia.net/commons/images/c/c5/Asia_Challenger_League_icon.png",
+    "dates": "Aug 26 - Sep 12, 2019",
+    "prize_pool": 42327,
+    "teams": "10",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "LuponWxC Invitational",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Sep 4 - 12, 2019",
+    "prize_pool": 963,
+    "teams": "8",
+    "host_location": "Philippines",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Malaysia Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Sep 7 - 8, 2019",
+    "prize_pool": 1500,
+    "teams": "4",
+    "host_location": "Malaysia",
+    "event_location": "Subang Jaya"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Myanmar Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Sep 7 - 8, 2019",
+    "prize_pool": 1500,
+    "teams": "4",
+    "host_location": "Myanmar",
+    "event_location": "Yangon"
+}, {
+    "tier": "Minor",
+    "name": "Brewmaster's Cup #2",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Sep 8, 2019",
+    "prize_pool": 1103,
+    "teams": "30",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Altay Cup 2019",
+    "icon": "https://liquipedia.net/commons/images/9/92/145_sm.png",
+    "dates": "Sep 8, 2019",
+    "prize_pool": 1140,
+    "teams": "2",
+    "host_location": "Russia",
+    "event_location": "Barnaul"
+}, {
+    "tier": "Minor",
+    "name": "Asian DOTA2 Gold Occupation Invitational Competition S4",
+    "icon": "https://liquipedia.net/commons/images/d/d3/ADGOC_icon.png",
+    "dates": "Aug 28 - Sep 7, 2019",
+    "prize_pool": 14058,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Destiny Cup Season 2",
+    "icon": "https://liquipedia.net/commons/images/d/d7/Destiny_Cup_icon.png",
+    "dates": "Aug 27 - Sep 4, 2019",
+    "prize_pool": 13981,
+    "teams": "14",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "IGE South Asia Cup Online",
+    "icon": "https://liquipedia.net/commons/images/3/36/IGE_league_icon.png",
+    "dates": "Aug 9 - Sep 3, 2019",
+    "prize_pool": 1500,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Cambodia Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Aug 31 - Sep 1, 2019",
+    "prize_pool": 1500,
+    "teams": "4",
+    "host_location": "Cambodia",
+    "event_location": "Phnom Penh"
+}, {
+    "tier": "Minor",
+    "name": "Dew Gamers Arena 2019",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Aug 29 - 31, 2019",
+    "prize_pool": 7210,
+    "teams": "4",
+    "host_location": "Pakistan",
+    "event_location": "Lahore"
+}, {
+    "tier": "Minor",
+    "name": "METROPOLIS Dota2 Cup",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Aug 25, 2019",
+    "prize_pool": 2275,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Minor",
+    "name": "Copa MasGamers 2019",
+    "icon": "https://liquipedia.net/commons/images/2/2c/Copa_MasGamers_2019_icon.png",
+    "dates": "Aug 23 - 24, 2019",
+    "prize_pool": 5922,
+    "teams": "8",
+    "host_location": "Peru",
+    "event_location": "Lima"
+}, {
+    "tier": "Minor",
+    "name": "Myanmar Electronic Sports League",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Aug 17 - 18, 2019",
+    "prize_pool": 2109,
+    "teams": "4",
+    "host_location": "Myanmar",
+    "event_location": "Yangon"
+}, {
+    "tier": "Minor",
+    "name": "LEVEL UP Dota Tournament",
+    "icon": "https://liquipedia.net/commons/images/8/8f/LEVEL_UP_d2_t.png",
+    "dates": "Aug 18, 2019",
+    "prize_pool": 755,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Tyumen"
+}, {
+    "tier": "Minor",
+    "name": "Phantom League - eCC",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Aug 3 - 17, 2019",
+    "prize_pool": 300,
+    "teams": "8",
+    "host_location": "Peru",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "LOOT.BET/DOTA",
+    "icon": "https://liquipedia.net/commons/images/4/4c/LOOT.BET_Icon.png",
+    "dates": "Jul 20 - Aug 14, 2019",
+    "prize_pool": 25000,
+    "teams": "10",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Challenger League Season 1",
+    "icon": "https://liquipedia.net/commons/images/c/c5/Asia_Challenger_League_icon.png",
+    "dates": "Aug 2 - 14, 2019",
+    "prize_pool": 28495,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asian DOTA2 Gold Occupation Invitational Competition S3",
+    "icon": "https://liquipedia.net/commons/images/d/d3/ADGOC_icon.png",
+    "dates": "Aug 6 - 13, 2019",
+    "prize_pool": 16981,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Destiny Cup Season 1",
+    "icon": "https://liquipedia.net/commons/images/d/d7/Destiny_Cup_icon.png",
+    "dates": "Aug 4 - 13, 2019",
+    "prize_pool": 14151,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Electronic Sports Games 2019 Laos Finals",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Aug 10 - 11, 2019",
+    "prize_pool": 1500,
+    "teams": "4",
+    "host_location": "Laos",
+    "event_location": "Vientiane"
+}, {
+    "tier": "Minor",
+    "name": "China Dota2 Development League Season 1",
+    "icon": "https://liquipedia.net/commons/images/b/b6/China_Dota2_Development_League_icon.png",
+    "dates": "Jul 16 - Aug 10, 2019",
+    "prize_pool": 5100,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Dota 2 Battle",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jul 29 - Aug 10, 2019",
+    "prize_pool": 7000,
+    "teams": "12",
+    "host_location": "Americas",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "joinDOTA League Season 16 Asia",
+    "icon": "https://liquipedia.net/commons/images/5/59/JoinDOTA_League_S15_Asia_small.png",
+    "dates": "Jul 15 - Aug 9, 2019",
+    "prize_pool": 1775,
+    "teams": "10",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "OES Cup",
+    "icon": "https://liquipedia.net/commons/images/c/c4/OES_icon.png",
+    "dates": "Aug 2 - 6, 2019",
+    "prize_pool": 5000,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "FaceCheck by GG.BET",
+    "icon": "https://liquipedia.net/commons/images/e/e6/FaceCheck_logo_std.png",
+    "dates": "Aug 2 - 6, 2019",
+    "prize_pool": 3000,
+    "teams": "6",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Underdogs Tournament #2",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jul 1 - Aug 4, 2019",
+    "prize_pool": 400,
+    "teams": "32",
+    "host_location": "Americas",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Pacific Predator League 2020 Singapore Finals",
+    "icon": "https://liquipedia.net/commons/images/6/69/Predator_League_Icon.png",
+    "dates": "Aug 3 - 4, 2019",
+    "prize_pool": 0,
+    "teams": "4",
+    "host_location": "Singapore",
+    "event_location": "Singapore"
+}, {
+    "tier": "Minor",
+    "name": "Asian DOTA2 Gold Occupation Invitational Competition S2",
+    "icon": "https://liquipedia.net/commons/images/d/d3/ADGOC_icon.png",
+    "dates": "Jul 27 - Aug 3, 2019",
+    "prize_pool": 17295,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Stars Championship Competition",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jul 27 - Aug 3, 2019",
+    "prize_pool": 7206,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "joinDOTA League Season 16 Europe",
+    "icon": "https://liquipedia.net/commons/images/2/23/JoinDOTA_League_S15_Europe_small.png",
+    "dates": "Jul 1 - Aug 1, 2019",
+    "prize_pool": 4000,
+    "teams": "10",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "QIWI TEAM PLAY Season 4",
+    "icon": "https://liquipedia.net/commons/images/e/ed/QIWI_Teamplay_S2_icon.png",
+    "dates": "Jul 18 - 29, 2019",
+    "prize_pool": 1574,
+    "teams": "8",
+    "host_location": "CIS",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ESL India Premiership 2019 Fall Masters League Phase 1",
+    "icon": "https://liquipedia.net/commons/images/4/49/ESL_India_Premiership_2019_icon.png",
+    "dates": "Jul 6 - 28, 2019",
+    "prize_pool": 1161,
+    "teams": "8",
+    "host_location": "India",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Cyberion 2019",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jul 27, 2019",
+    "prize_pool": 3168,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Minor",
+    "name": "RedRain Cup Season 4",
+    "icon": "https://liquipedia.net/commons/images/c/cb/Dota2_RedRain_Cup_icon.png",
+    "dates": "Jul 19 - 26, 2019",
+    "prize_pool": 14539,
+    "teams": "14",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Radiance Cup",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jul 15 - 22, 2019",
+    "prize_pool": 14533,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Thailand E-Sports Challenge 2019",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jul 15 - 21, 2019",
+    "prize_pool": 0,
+    "teams": "8",
+    "host_location": "Thailand",
+    "event_location": "Bangkok"
+}, {
+    "tier": "Minor",
+    "name": "LPL 2019 ANZ Championship Season 2 Finals",
+    "icon": "https://liquipedia.net/commons/images/1/1d/LPL_Pro_League_icon.png",
+    "dates": "Jul 18, 2019",
+    "prize_pool": 4221,
+    "teams": "4",
+    "host_location": "New Zealand",
+    "event_location": "Online and Offline"
+}, {
+    "tier": "Minor",
+    "name": "StarLadder ProSeries Season 27",
+    "icon": "https://liquipedia.net/commons/images/0/0f/ProSeries-icon.png",
+    "dates": "Jul 8 - 12, 2019",
+    "prize_pool": 2000,
+    "teams": "8",
+    "host_location": "CIS",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Jiabet Asian Masters League",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jun 27 - Jul 2, 2019",
+    "prize_pool": 29087,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asian DOTA2 Gold Occupation Invitational Competition S1",
+    "icon": "https://liquipedia.net/commons/images/d/d3/ADGOC_icon.png",
+    "dates": "Jun 24 - Jul 1, 2019",
+    "prize_pool": 11692,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ESL India Premiership 2019 Summer Masters League Finals",
+    "icon": "https://liquipedia.net/commons/images/4/49/ESL_India_Premiership_2019_icon.png",
+    "dates": "Jun 29, 2019",
+    "prize_pool": 14855,
+    "teams": "4",
+    "host_location": "India",
+    "event_location": "Mumbai"
+}, {
+    "tier": "Minor",
+    "name": "RedRain Cup Season 3",
+    "icon": "https://liquipedia.net/commons/images/c/cb/Dota2_RedRain_Cup_icon.png",
+    "dates": "Jun 21 - 29, 2019",
+    "prize_pool": 14555,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Liga Pro Gaming Season 7",
+    "icon": "https://liquipedia.net/commons/images/2/27/Lpg-icon.png",
+    "dates": "Jun 11 - 29, 2019",
+    "prize_pool": 4500,
+    "teams": "12",
+    "host_location": "South America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "joinDOTA League Season 16 Americas",
+    "icon": "https://liquipedia.net/commons/images/e/e4/JoinDOTA_League_S15_America_small.png",
+    "dates": "May 31 - Jun 27, 2019",
+    "prize_pool": 3550,
+    "teams": "10",
+    "host_location": "Americas",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ZBT Invitational",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jun 17 - 24, 2019",
+    "prize_pool": 14542,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Cyber Games 2019 China Finals",
+    "icon": "https://liquipedia.net/commons/images/d/d2/WCG_icon_2019.png",
+    "dates": "Jun 20, 2019",
+    "prize_pool": 7500,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Minor",
+    "name": "ESL India Premiership 2019 Summer Masters League Phase 2",
+    "icon": "https://liquipedia.net/commons/images/4/49/ESL_India_Premiership_2019_icon.png",
+    "dates": "May 22 - Jun 19, 2019",
+    "prize_pool": 1148,
+    "teams": "8",
+    "host_location": "India",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Russian eSports Student League 2019",
+    "icon": "https://liquipedia.net/commons/images/c/cb/RSL.png",
+    "dates": "Jun 15 - 16, 2019",
+    "prize_pool": 14006,
+    "teams": "8",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Minor",
+    "name": "Rostelecom Cup 2019",
+    "icon": "https://liquipedia.net/commons/images/d/d2/Rostelecom_Cup_m.png",
+    "dates": "Jun 16, 2019",
+    "prize_pool": 450,
+    "teams": "2",
+    "host_location": "Russia",
+    "event_location": "Novosibirsk"
+}, {
+    "tier": "Minor",
+    "name": "Good Line Open XI Kemerovo",
+    "icon": "https://liquipedia.net/commons/images/2/27/GLO_small.png",
+    "dates": "Jun 16, 2019",
+    "prize_pool": 856,
+    "teams": "2",
+    "host_location": "Russia",
+    "event_location": "Kemerovo"
+}, {
+    "tier": "Minor",
+    "name": "FVBET Asian Masters League",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jun 10 - 16, 2019",
+    "prize_pool": 28886,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ESL MY&SG Championship Season 1",
+    "icon": "https://liquipedia.net/commons/images/3/36/ESL_MYSG_Championship_Icon.png",
+    "dates": "Apr 15 - Jun 16, 2019",
+    "prize_pool": 12000,
+    "teams": "4",
+    "host_location": "Malaysia",
+    "event_location": "Online Singapore"
+}, {
+    "tier": "Minor",
+    "name": "ESL ANZ Championship - Season 3",
+    "icon": "https://liquipedia.net/commons/images/6/64/ESL_AU_%26_NZ_Championship_2019_icon.png",
+    "dates": "May 12 - Jun 16, 2019",
+    "prize_pool": 6901,
+    "teams": "6",
+    "host_location": "Australia",
+    "event_location": "Sydney"
+}, {
+    "tier": "Minor",
+    "name": "ESL Adria League Season 3",
+    "icon": "https://liquipedia.net/commons/images/d/dd/ESL_Adria_League_2019_icon.png",
+    "dates": "Jun 8 - 9, 2019",
+    "prize_pool": 2170,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "RedRain Cup Season 2",
+    "icon": "https://liquipedia.net/commons/images/c/cb/Dota2_RedRain_Cup_icon.png",
+    "dates": "Jun 3 - 9, 2019",
+    "prize_pool": 7236,
+    "teams": "14",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Russian eSports Championship 2019",
+    "icon": "https://liquipedia.net/commons/images/5/54/RussianCup2018.png",
+    "dates": "Apr 20 - Jun 9, 2019",
+    "prize_pool": 23072,
+    "teams": "49",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Minor",
+    "name": "ESL Vietnam Championship Season 1",
+    "icon": "https://liquipedia.net/commons/images/8/81/ESL_Vietnam_Championship_Icon.png",
+    "dates": "Apr 12 - Jun 9, 2019",
+    "prize_pool": 12000,
+    "teams": "4",
+    "host_location": "Vietnam",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ESL Thailand Championship Season 1",
+    "icon": "https://liquipedia.net/commons/images/2/2c/ESL_Thailand_Championship_Icon.png",
+    "dates": "Apr 9 - Jun 9, 2019",
+    "prize_pool": 12000,
+    "teams": "4",
+    "host_location": "Thailand",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Ugra Open 2",
+    "icon": "https://liquipedia.net/commons/images/8/85/Ugra_sm.png",
+    "dates": "Jun 8 - 9, 2019",
+    "prize_pool": 6152,
+    "teams": "16",
+    "host_location": "Russia",
+    "event_location": "Ugra"
+}, {
+    "tier": "Minor",
+    "name": "eSM 2019",
+    "icon": "https://liquipedia.net/commons/images/a/ae/Vectorama_icon.png",
+    "dates": "Jun 7 - 8, 2019",
+    "prize_pool": 5636,
+    "teams": "4",
+    "host_location": "Finland",
+    "event_location": "Oulu"
+}, {
+    "tier": "Minor",
+    "name": "World Cyber Games 2019 Europe Finals",
+    "icon": "https://liquipedia.net/commons/images/d/d2/WCG_icon_2019.png",
+    "dates": "Jun 8, 2019",
+    "prize_pool": 7500,
+    "teams": "8",
+    "host_location": "Greece",
+    "event_location": "Athens"
+}, {
+    "tier": "Minor",
+    "name": "WePlay! Dota 2 Tug of War: Dire Asia",
+    "icon": "https://liquipedia.net/commons/images/3/32/WePlay_Dire.png",
+    "dates": "May 28 - Jun 2, 2019",
+    "prize_pool": 15000,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "The Nationals Season 1 Finale",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jun 1 - 2, 2019",
+    "prize_pool": 11491,
+    "teams": "3",
+    "host_location": "Philippines",
+    "event_location": "Offline"
+}, {
+    "tier": "Minor",
+    "name": "WePlay! Dota 2 Tug of War: Dire America",
+    "icon": "https://liquipedia.net/commons/images/3/32/WePlay_Dire.png",
+    "dates": "May 28 - Jun 2, 2019",
+    "prize_pool": 15000,
+    "teams": "12",
+    "host_location": "North America",
+    "event_location": "Online South America"
+}, {
+    "tier": "Minor",
+    "name": "Feng Ye Professional Invitational Season 2",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "May 17 - Jun 1, 2019",
+    "prize_pool": 7237,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "JBO Asian Masters League",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "May 26 - Jun 1, 2019",
+    "prize_pool": 28947,
+    "teams": "14",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Cyber Games 2019 Americas Finals",
+    "icon": "https://liquipedia.net/commons/images/d/d2/WCG_icon_2019.png",
+    "dates": "Jun 1, 2019",
+    "prize_pool": 7500,
+    "teams": "6",
+    "host_location": "United States",
+    "event_location": "Santa Ana"
+}, {
+    "tier": "Minor",
+    "name": "X-Bet.co Rampage Series #5",
+    "icon": "https://liquipedia.net/commons/images/5/59/X-Bet.co_icon.png",
+    "dates": "May 13 - 27, 2019",
+    "prize_pool": 5599,
+    "teams": "16",
+    "host_location": "Southeast Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "World Cyber Games 2019 APAC Finals",
+    "icon": "https://liquipedia.net/commons/images/d/d2/WCG_icon_2019.png",
+    "dates": "May 27, 2019",
+    "prize_pool": 7500,
+    "teams": "7",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Minor",
+    "name": "Qi Invitational Europe",
+    "icon": "https://liquipedia.net/commons/images/c/c7/Qi_League_icon.png",
+    "dates": "May 25 - 27, 2019",
+    "prize_pool": 10000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online CIS"
+}, {
+    "tier": "Minor",
+    "name": "The Nationals Season 1 Conference 2",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "May 1 - 26, 2019",
+    "prize_pool": 13408,
+    "teams": "5",
+    "host_location": "Philippines",
+    "event_location": "Offline"
+}, {
+    "tier": "Minor",
+    "name": "RedRain Cup Season 1",
+    "icon": "https://liquipedia.net/commons/images/c/cb/Dota2_RedRain_Cup_icon.png",
+    "dates": "May 5 - 25, 2019",
+    "prize_pool": 7245,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Sin Esports Dota 2 League Season 1",
+    "icon": "https://liquipedia.net/commons/images/2/2d/Sin_Esports_icon.png",
+    "dates": "Apr 27 - May 19, 2019",
+    "prize_pool": 5817,
+    "teams": "16",
+    "host_location": "Southeast Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Bishkek Stars League #8",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "May 18 - 19, 2019",
+    "prize_pool": 4295,
+    "teams": "16",
+    "host_location": "Kyrgyzstan",
+    "event_location": "Bishkek"
+}, {
+    "tier": "Minor",
+    "name": "ESL India Premiership 2019 Summer Masters League Phase 1",
+    "icon": "https://liquipedia.net/commons/images/4/49/ESL_India_Premiership_2019_icon.png",
+    "dates": "Apr 26 - May 18, 2019",
+    "prize_pool": 1140,
+    "teams": "8",
+    "host_location": "India",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Challenge Cup Season 4",
+    "icon": "https://liquipedia.net/commons/images/1/19/Dota_2_Challenge_Cup_icon.png",
+    "dates": "May 2 - 10, 2019",
+    "prize_pool": 7328,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "joinDOTA League Season 15 Americas",
+    "icon": "https://liquipedia.net/commons/images/e/e4/JoinDOTA_League_S15_America_small.png",
+    "dates": "Apr 18 - May 10, 2019",
+    "prize_pool": 4000,
+    "teams": "10",
+    "host_location": "Americas",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "META'19 Spring",
+    "icon": "https://liquipedia.net/commons/images/9/94/META_sm.png",
+    "dates": "May 5, 2019",
+    "prize_pool": 1396,
+    "teams": "4",
+    "host_location": "Belarus",
+    "event_location": "Minsk"
+}, {
+    "tier": "Minor",
+    "name": "Liga Pro Gaming Season 6",
+    "icon": "https://liquipedia.net/commons/images/2/27/Lpg-icon.png",
+    "dates": "Apr 8 - May 1, 2019",
+    "prize_pool": 4500,
+    "teams": "10",
+    "host_location": "South America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "LuponWxC Winner Takes-All Invitational Season 1",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Apr 27 - 30, 2019",
+    "prize_pool": 965,
+    "teams": "8",
+    "host_location": "Philippines",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Brewmaster's Cup",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Apr 30, 2019",
+    "prize_pool": 1122,
+    "teams": "53",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Dom.ru Championship 2019",
+    "icon": "https://liquipedia.net/commons/images/2/23/Domrulogo.png",
+    "dates": "Apr 26 - 28, 2019",
+    "prize_pool": 15438,
+    "teams": "8",
+    "host_location": "Russia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Dota2 Rainbow Cup Season 2",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Apr 15 - 25, 2019",
+    "prize_pool": 10000,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "AEF DPL Season 2 Premier Division Finals",
+    "icon": "https://liquipedia.net/commons/images/4/42/Australian_eSports_Federation_icon.png",
+    "dates": "Apr 20, 2019",
+    "prize_pool": 3578,
+    "teams": "3",
+    "host_location": "Oceania",
+    "event_location": "Melbourne"
+}, {
+    "tier": "Minor",
+    "name": "joinDOTA League Season 15 Europe",
+    "icon": "https://liquipedia.net/commons/images/2/23/JoinDOTA_League_S15_Europe_small.png",
+    "dates": "Mar 6 - Apr 20, 2019",
+    "prize_pool": 4000,
+    "teams": "10",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Betway Dota 2 Asia League Season 1",
+    "icon": "https://liquipedia.net/commons/images/3/38/Betway_Dota_2_Asia_League_icon.png",
+    "dates": "Apr 7 - 19, 2019",
+    "prize_pool": 20000,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Feng Ye Professional Invitational Season 1",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Apr 7 - 16, 2019",
+    "prize_pool": 7453,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "China Future Cup Season 1",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Apr 4 - 15, 2019",
+    "prize_pool": 11929,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "The Nationals Season 1 Conference 1",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Mar 24 - Apr 14, 2019",
+    "prize_pool": 13534,
+    "teams": "5",
+    "host_location": "Philippines",
+    "event_location": "Offline"
+}, {
+    "tier": "Minor",
+    "name": "Burabay Cyber Cup 2019",
+    "icon": "https://liquipedia.net/commons/images/4/43/Sm12.png",
+    "dates": "Apr 13, 2019",
+    "prize_pool": 2600,
+    "teams": "2",
+    "host_location": "Kazakhstan",
+    "event_location": "Burabay"
+}, {
+    "tier": "Minor",
+    "name": "GG.Bet Birmingham Invitational",
+    "icon": "https://liquipedia.net/commons/images/2/22/Icon-ggbet-birmingham-invitational-50x50.png",
+    "dates": "Apr 8 - 13, 2019",
+    "prize_pool": 5000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online CIS"
+}, {
+    "tier": "Minor",
+    "name": "Mekansm League",
+    "icon": "https://liquipedia.net/commons/images/1/16/Icon_Mekansm_League.png",
+    "dates": "Apr 8 - 13, 2019",
+    "prize_pool": 5000,
+    "teams": "12",
+    "host_location": "South America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "American Avengers Cup",
+    "icon": "https://liquipedia.net/commons/images/0/05/American_Avengers_Cup_small_logo.png",
+    "dates": "Apr 5 - 12, 2019",
+    "prize_pool": 10000,
+    "teams": "8",
+    "host_location": "Americas",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Qi Invitational America",
+    "icon": "https://liquipedia.net/commons/images/d/de/Icon_Qi_Invitational_Americas.png",
+    "dates": "Apr 6 - 8, 2019",
+    "prize_pool": 10000,
+    "teams": "6",
+    "host_location": "North America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Cobx Masters 2019 Phase II",
+    "icon": "https://liquipedia.net/commons/images/1/10/Cobx_Masters-Icon.png",
+    "dates": "Apr 5 - 7, 2019",
+    "prize_pool": 100000,
+    "teams": "6",
+    "host_location": "India",
+    "event_location": "Mumbai"
+}, {
+    "tier": "Minor",
+    "name": "Challenge Cup Season 3",
+    "icon": "https://liquipedia.net/commons/images/1/19/Dota_2_Challenge_Cup_icon.png",
+    "dates": "Mar 25 - Apr 6, 2019",
+    "prize_pool": 7443,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "StarLadder ProSeries Season 26",
+    "icon": "https://liquipedia.net/commons/images/0/0f/ProSeries-icon.png",
+    "dates": "Apr 3 - 5, 2019",
+    "prize_pool": 2000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Dota2 Rainbow Cup",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Mar 17 - Apr 3, 2019",
+    "prize_pool": 7453,
+    "teams": "12",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "LPL 2019 ANZ Championship Season 1",
+    "icon": "https://liquipedia.net/commons/images/1/1d/LPL_Pro_League_icon.png",
+    "dates": "Feb 6 - Apr 3, 2019",
+    "prize_pool": 2847,
+    "teams": "8",
+    "host_location": "Oceania",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "NADCL Season 3 Bronze",
+    "icon": "https://liquipedia.net/commons/images/e/e9/NADCL_League_icon.png",
+    "dates": "Feb 18 - Mar 31, 2019",
+    "prize_pool": 150,
+    "teams": "32",
+    "host_location": "North America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "NADCL Season 3 Gold",
+    "icon": "https://liquipedia.net/commons/images/e/e9/NADCL_League_icon.png",
+    "dates": "Feb 18 - Mar 31, 2019",
+    "prize_pool": 800,
+    "teams": "12",
+    "host_location": "North America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "NADCL Season 3 Silver",
+    "icon": "https://liquipedia.net/commons/images/e/e9/NADCL_League_icon.png",
+    "dates": "Feb 18 - Mar 30, 2019",
+    "prize_pool": 450,
+    "teams": "16",
+    "host_location": "North America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ESL Indonesia Championship Season 1",
+    "icon": "https://liquipedia.net/commons/images/9/90/ESL_Indonesia_small.png",
+    "dates": "Jan 16 - Mar 29, 2019",
+    "prize_pool": 50000,
+    "teams": "4",
+    "host_location": "Indonesia",
+    "event_location": "Jakarta"
+}, {
+    "tier": "Minor",
+    "name": "NADCL Season 3 Premiere",
+    "icon": "https://liquipedia.net/commons/images/e/e9/NADCL_League_icon.png",
+    "dates": "Feb 22 - Mar 29, 2019",
+    "prize_pool": 4600,
+    "teams": "8",
+    "host_location": "North America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "VARENA DOTA2 League - China Season 1",
+    "icon": "https://liquipedia.net/commons/images/4/4e/VARENA_icon.png",
+    "dates": "Mar 15 - 21, 2019",
+    "prize_pool": 5230,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Turkmenistan Cup 2019",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Mar 17, 2019",
+    "prize_pool": 1450,
+    "teams": "4",
+    "host_location": "Turkmenistan",
+    "event_location": "Ashgabat"
+}, {
+    "tier": "Minor",
+    "name": "Thunder Fire Spring League",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Mar 4 - 13, 2019",
+    "prize_pool": 26835,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "BTS Spring Cup: Southeast Asia",
+    "icon": "https://liquipedia.net/commons/images/6/65/BTS_Spring_Cup_icon.png",
+    "dates": "Mar 11 - 13, 2019",
+    "prize_pool": 5000,
+    "teams": "4",
+    "host_location": "Southeast Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "BTS Spring Cup: Europe",
+    "icon": "https://liquipedia.net/commons/images/6/65/BTS_Spring_Cup_icon.png",
+    "dates": "Mar 11 - 13, 2019",
+    "prize_pool": 10000,
+    "teams": "4",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "BTS Spring Cup: Americas",
+    "icon": "https://liquipedia.net/commons/images/6/65/BTS_Spring_Cup_icon.png",
+    "dates": "Mar 11 - 13, 2019",
+    "prize_pool": 5000,
+    "teams": "4",
+    "host_location": "Americas",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "joinDOTA League Season 15 Asia",
+    "icon": "https://liquipedia.net/commons/images/5/59/JoinDOTA_League_S15_Asia_small.png",
+    "dates": "Jan 28 - Mar 12, 2019",
+    "prize_pool": 4000,
+    "teams": "10",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "JJB Spring Cup",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Feb 27 - Mar 3, 2019",
+    "prize_pool": 29825,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Liga Pro Gaming Summer Madness",
+    "icon": "https://liquipedia.net/commons/images/2/27/Lpg-icon.png",
+    "dates": "Mar 2, 2019",
+    "prize_pool": 1000,
+    "teams": "3",
+    "host_location": "South America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "WePlay! Dota 2 Tug of War: Radiant",
+    "icon": "https://liquipedia.net/commons/images/e/e5/WePlay_Radiant.png",
+    "dates": "Feb 26 - Mar 2, 2019",
+    "prize_pool": 50000,
+    "teams": "12",
+    "host_location": "CIS",
+    "event_location": "Online Europe"
+}, {
+    "tier": "Minor",
+    "name": "Lantrek 2019",
+    "icon": "https://liquipedia.net/commons/images/1/1e/Lantrek-icon.png",
+    "dates": "Mar 1, 2019",
+    "prize_pool": 5692,
+    "teams": "4",
+    "host_location": "Finland",
+    "event_location": "Tampere"
+}, {
+    "tier": "Minor",
+    "name": "Challenge Cup Season 2",
+    "icon": "https://liquipedia.net/commons/images/1/19/Dota_2_Challenge_Cup_icon.png",
+    "dates": "Feb 15 - 21, 2019",
+    "prize_pool": 7443,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Pro League Season 2",
+    "icon": "https://liquipedia.net/commons/images/5/54/Asia_Pro_League_icon.png",
+    "dates": "Feb 14 - 20, 2019",
+    "prize_pool": 7438,
+    "teams": "10",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Rainha do Ver\u00e3o",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Feb 16 - 19, 2019",
+    "prize_pool": 188,
+    "teams": "4",
+    "host_location": "Brazil",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "X-Bet.co Rampage Series #4",
+    "icon": "https://liquipedia.net/commons/images/5/59/X-Bet.co_icon.png",
+    "dates": "Jan 28 - Feb 17, 2019",
+    "prize_pool": 5630,
+    "teams": "16",
+    "host_location": "Southeast Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Krasnoyarsk Mayor Cup 2019",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Feb 17, 2019",
+    "prize_pool": 600,
+    "teams": "2",
+    "host_location": "Russia",
+    "event_location": "Krasnoyarsk"
+}, {
+    "tier": "Minor",
+    "name": "Asia Pacific Predator League 2019",
+    "icon": "https://liquipedia.net/commons/images/2/2d/Asia_Pacific_Predator_League_2019_icon.png",
+    "dates": "Feb 15 - 17, 2019",
+    "prize_pool": 120000,
+    "teams": "10",
+    "host_location": "Thailand",
+    "event_location": "Bangkok"
+}, {
+    "tier": "Minor",
+    "name": "WePlay! Dota 2 Valentine Madness",
+    "icon": "https://liquipedia.net/commons/images/a/a0/WePlay_Valentine_Madness_icon.png",
+    "dates": "Feb 10 - 16, 2019",
+    "prize_pool": 100000,
+    "teams": "12",
+    "host_location": "Europe",
+    "event_location": "Online CIS"
+}, {
+    "tier": "Minor",
+    "name": "ESL India Premiership 2018 Winter",
+    "icon": "https://liquipedia.net/commons/images/6/64/ESLIndia_small.png",
+    "dates": "Feb 3 - 5, 2019",
+    "prize_pool": 13958,
+    "teams": "4",
+    "host_location": "India",
+    "event_location": "New Delhi"
+}, {
+    "tier": "Minor",
+    "name": "OK Challenge \u0425\u0440\u0443\u0441team MIX: Dota 2",
+    "icon": "https://liquipedia.net/commons/images/a/a9/OK_challenge.png",
+    "dates": "Feb 2 - 3, 2019",
+    "prize_pool": 1516,
+    "teams": "58",
+    "host_location": "CIS",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Pacific Predator League 2019 Indonesia Qualifier",
+    "icon": "https://liquipedia.net/commons/images/6/69/Predator_League_Icon.png",
+    "dates": "Jan 26 - 27, 2019",
+    "prize_pool": 3550,
+    "teams": "8",
+    "host_location": "Indonesia",
+    "event_location": "Jakarta"
+}, {
+    "tier": "Minor",
+    "name": "META'19 Winter",
+    "icon": "https://liquipedia.net/commons/images/9/94/META_sm.png",
+    "dates": "Jan 27, 2019",
+    "prize_pool": 1396,
+    "teams": "4",
+    "host_location": "Belarus",
+    "event_location": "Minsk"
+}, {
+    "tier": "Minor",
+    "name": "North American Dota Challengers League Season 2",
+    "icon": "https://liquipedia.net/commons/images/e/e9/NADCL_League_icon.png",
+    "dates": "Dec 20, 2018 - Jan 20, 2019",
+    "prize_pool": 6000,
+    "teams": "8",
+    "host_location": "North America",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "ANGGAME China vs SEA #3 - Online Final",
+    "icon": "https://liquipedia.net/commons/images/6/62/ANGGAME_icon.png",
+    "dates": "Jan 14 - 18, 2019",
+    "prize_pool": 23603,
+    "teams": "8",
+    "host_location": "Asia",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "joinDOTA Turbo Masters Europe",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jan 15, 2019",
+    "prize_pool": 1000,
+    "teams": "2",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "QIWI TEAM PLAY Season 3",
+    "icon": "https://liquipedia.net/commons/images/e/ed/QIWI_Teamplay_S2_icon.png",
+    "dates": "Jan 7 - 14, 2019",
+    "prize_pool": 1488,
+    "teams": "8",
+    "host_location": "CIS",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Challenge Cup Season 1",
+    "icon": "https://liquipedia.net/commons/images/1/19/Dota_2_Challenge_Cup_icon.png",
+    "dates": "Jan 8 - 14, 2019",
+    "prize_pool": 7389,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "joinDOTA Turbo Masters Americas",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Jan 8, 2019",
+    "prize_pool": 1000,
+    "teams": "2",
+    "host_location": "Americas",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Asia Pacific Predator League 2019 Singapore Qualifier",
+    "icon": "https://liquipedia.net/commons/images/6/69/Predator_League_Icon.png",
+    "dates": "Jan 5 - 6, 2019",
+    "prize_pool": 5141,
+    "teams": "8",
+    "host_location": "Singapore",
+    "event_location": "Singapore"
+}, {
+    "tier": "Minor",
+    "name": "WePlay! Dota 2 Winter Madness",
+    "icon": "https://liquipedia.net/commons/images/4/42/WePlay_Winter_Madness_icon.png",
+    "dates": "Dec 27, 2018 - Jan 5, 2019",
+    "prize_pool": 100000,
+    "teams": "14",
+    "host_location": "Europe",
+    "event_location": "Online CIS"
+}, {
+    "tier": "Minor",
+    "name": "LOOT.BET Winter Masters",
+    "icon": "https://liquipedia.net/commons/images/f/f8/LOOT.BET_Winter_Masters_icon.png",
+    "dates": "Dec 27, 2018 - Jan 5, 2019",
+    "prize_pool": 57015,
+    "teams": "12",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "StarLadder ProSeries Season 25",
+    "icon": "https://liquipedia.net/commons/images/0/0f/ProSeries-icon.png",
+    "dates": "Jan 2 - 5, 2019",
+    "prize_pool": 2000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Minor",
+    "name": "Singapore Esports League Season 2",
+    "icon": "https://liquipedia.net/commons/images/4/48/Singapore_Esports_League_small.png",
+    "dates": "Oct 20, 2018 - Jan 3, 2019",
+    "prize_pool": 3660,
+    "teams": "10",
+    "host_location": "Singapore",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "ONE Esports Dota 2 World Pro Invitational Jakarta",
+    "icon": "https://liquipedia.net/commons/images/6/66/ONE-Esports-logo.svg",
+    "dates": "Apr 17 - 19, 2020",
+    "prize_pool": 500000,
+    "teams": "12",
+    "host_location": "Indonesia",
+    "event_location": "Jakarta"
+}, {
+    "tier": "Premier",
+    "name": "ESL One Los Angeles 2020",
+    "icon": "https://liquipedia.net/commons/images/8/8a/ESL_One_2019_new_icon.png",
+    "dates": "Mar 15 - 22, 2020",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Premier",
+    "name": "DreamLeague Season 13",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "Jan 18 - 26, 2020",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "Germany",
+    "event_location": "Leipzig"
+}, {
+    "tier": "Premier",
+    "name": "ONE Esports Dota 2 World Pro Invitational Singapore",
+    "icon": "https://liquipedia.net/commons/images/6/66/ONE-Esports-logo.svg",
+    "dates": "Dec 17 - 22, 2019",
+    "prize_pool": 500000,
+    "teams": "12",
+    "host_location": "Singapore",
+    "event_location": "Singapore"
+}, {
+    "tier": "Premier",
+    "name": "MDL Chengdu Major",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "Nov 16 - 24, 2019",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Chengdu"
+}, {
+    "tier": "Premier",
+    "name": "The International 2019",
+    "icon": "https://liquipedia.net/commons/images/d/d6/TheInternationalSmall.png",
+    "dates": "Aug 15 - 25, 2019",
+    "prize_pool": 34330068,
+    "teams": "18",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "EPICENTER Major",
+    "icon": "https://liquipedia.net/commons/images/2/29/Epicenter_small.png",
+    "dates": "Jun 22 - 30, 2019",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Premier",
+    "name": "MDL Disneyland\u00ae Paris Major",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "May 4 - 12, 2019",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "France",
+    "event_location": "Paris"
+}, {
+    "tier": "Premier",
+    "name": "DreamLeague Season 11",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "Mar 14 - 24, 2019",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "Sweden",
+    "event_location": "Stockholm"
+}, {
+    "tier": "Premier",
+    "name": "World Electronic Sports Games 2018",
+    "icon": "https://liquipedia.net/commons/images/2/2c/WESG_2018_icon.png",
+    "dates": "Mar 7 - 10, 2019",
+    "prize_pool": 890000,
+    "teams": "24",
+    "host_location": "China",
+    "event_location": "Chongqing"
+}, {
+    "tier": "Premier",
+    "name": "The Chongqing Major",
+    "icon": "https://liquipedia.net/commons/images/e/e4/Chongqing_Major_2019_icon.png",
+    "dates": "Jan 19 - 27, 2019",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Chongqing"
+}, {
+    "tier": "Premier",
+    "name": "The Kuala Lumpur Major",
+    "icon": "https://liquipedia.net/commons/images/9/95/Kuala_Lumpur_Major_icon.png",
+    "dates": "Nov 9 - 18, 2018",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "Malaysia",
+    "event_location": "Kuala Lumpur"
+}, {
+    "tier": "Premier",
+    "name": "The International 2018",
+    "icon": "https://liquipedia.net/commons/images/d/d6/TheInternationalSmall.png",
+    "dates": "Aug 15 - 25, 2018",
+    "prize_pool": 25532177,
+    "teams": "18",
+    "host_location": "Canada",
+    "event_location": "Vancouver"
+}, {
+    "tier": "Premier",
+    "name": "China Dota2 Supermajor",
+    "icon": "https://liquipedia.net/commons/images/6/6c/China_Dota2_Supermajor_icon.png",
+    "dates": "Jun 2 - 10, 2018",
+    "prize_pool": 1500000,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "ESL One Birmingham 2018",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "May 23 - 27, 2018",
+    "prize_pool": 1000000,
+    "teams": "12",
+    "host_location": "United Kingdom",
+    "event_location": "Birmingham"
+}, {
+    "tier": "Premier",
+    "name": "MDL Changsha Major",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "May 14 - 20, 2018",
+    "prize_pool": 1000000,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Changsha"
+}, {
+    "tier": "Premier",
+    "name": "EPICENTER XL",
+    "icon": "https://liquipedia.net/commons/images/2/29/Epicenter_small.png",
+    "dates": "Apr 27 - May 6, 2018",
+    "prize_pool": 1000000,
+    "teams": "12",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 Asia Championships 2018",
+    "icon": "https://liquipedia.net/commons/images/f/f6/Dac_logo_small.png",
+    "dates": "Mar 29 - Apr 7, 2018",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "World Electronic Sports Games 2017",
+    "icon": "https://liquipedia.net/commons/images/a/ac/WESG_icon.png",
+    "dates": "Mar 13 - 18, 2018",
+    "prize_pool": 1500000,
+    "teams": "30",
+    "host_location": "China",
+    "event_location": "Haikou"
+}, {
+    "tier": "Premier",
+    "name": "The Bucharest Major",
+    "icon": "https://liquipedia.net/commons/images/a/ab/BucharestMajorIcon.png",
+    "dates": "Mar 4 - 11, 2018",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "Romania",
+    "event_location": "Bucharest"
+}, {
+    "tier": "Premier",
+    "name": "ESL One Katowice 2018",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Feb 20 - 25, 2018",
+    "prize_pool": 1000000,
+    "teams": "16",
+    "host_location": "Poland",
+    "event_location": "Katowice"
+}, {
+    "tier": "Premier",
+    "name": "DreamLeague Season 8",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "Dec 1 - 3, 2017",
+    "prize_pool": 1000000,
+    "teams": "8",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Premier",
+    "name": "ESL One Hamburg 2017",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Oct 26 - 29, 2017",
+    "prize_pool": 1000000,
+    "teams": "8",
+    "host_location": "Germany",
+    "event_location": "Hamburg"
+}, {
+    "tier": "Premier",
+    "name": "The International 2017",
+    "icon": "https://liquipedia.net/commons/images/d/d6/TheInternationalSmall.png",
+    "dates": "Aug 2 - 12, 2017",
+    "prize_pool": 24787916,
+    "teams": "18",
+    "host_location": "United States",
+    "event_location": "Seattle"
+}, {
+    "tier": "Premier",
+    "name": "Mars Dota 2 League 2017",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "Jul 5 - 9, 2017",
+    "prize_pool": 250000,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Wuhan"
+}, {
+    "tier": "Premier",
+    "name": "Galaxy Battles",
+    "icon": "https://liquipedia.net/commons/images/d/d8/Galaxy_Battles-icon.png",
+    "dates": "Jun 15 - 18, 2017",
+    "prize_pool": 150000,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shenzhen"
+}, {
+    "tier": "Premier",
+    "name": "DOTA Summit 7",
+    "icon": "https://liquipedia.net/commons/images/1/1d/Beyond_The_Summit_orig_icon.png",
+    "dates": "Jun 14 - 18, 2017",
+    "prize_pool": 100000,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Premier",
+    "name": "EPICENTER 2017",
+    "icon": "https://liquipedia.net/commons/images/2/29/Epicenter_small.png",
+    "dates": "Jun 4 - 11, 2017",
+    "prize_pool": 500000,
+    "teams": "10",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Premier",
+    "name": "ZOTAC Cup Masters",
+    "icon": "https://liquipedia.net/commons/images/b/bc/Zotac_cup_master_small.png",
+    "dates": "May 30 - Jun 3, 2017",
+    "prize_pool": 100000,
+    "teams": "8",
+    "host_location": "Taiwan",
+    "event_location": "Taipei"
+}, {
+    "tier": "Premier",
+    "name": "The Manila Masters",
+    "icon": "https://liquipedia.net/commons/images/8/85/The_masters_small.png",
+    "dates": "May 25 - 28, 2017",
+    "prize_pool": 250000,
+    "teams": "8",
+    "host_location": "Philippines",
+    "event_location": "Manila"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder i-League Invitational Season 2",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "May 18 - 21, 2017",
+    "prize_pool": 100000,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "The Kiev Major 2017",
+    "icon": "https://liquipedia.net/commons/images/b/ba/Shanghai_major_small.png",
+    "dates": "Apr 24 - 30, 2017",
+    "prize_pool": 3000000,
+    "teams": "16",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 Asia Championships 2017",
+    "icon": "https://liquipedia.net/commons/images/f/f6/Dac_logo_small.png",
+    "dates": "Mar 27 - Apr 4, 2017",
+    "prize_pool": 611997,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder i-League StarSeries Season 3",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Feb 23 - 26, 2017",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "Dota Pit League Season 5",
+    "icon": "https://liquipedia.net/commons/images/d/de/Dotapit_logo_small.png",
+    "dates": "Jan 20 - 22, 2017",
+    "prize_pool": 139860,
+    "teams": "8",
+    "host_location": "Croatia",
+    "event_location": "Split"
+}, {
+    "tier": "Premier",
+    "name": "World Electronic Sports Games 2016",
+    "icon": "https://liquipedia.net/commons/images/a/ac/WESG_icon.png",
+    "dates": "Jan 12 - 15, 2017",
+    "prize_pool": 1500000,
+    "teams": "24",
+    "host_location": "China",
+    "event_location": "Changzhou"
+}, {
+    "tier": "Premier",
+    "name": "ESL One Genting 2017",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Jan 6 - 8, 2017",
+    "prize_pool": 250000,
+    "teams": "8",
+    "host_location": "Malaysia",
+    "event_location": "Genting Highlands"
+}, {
+    "tier": "Premier",
+    "name": "World Cyber Arena 2016",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Dec 14 - 16, 2016",
+    "prize_pool": 589252,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Yinchuan"
+}, {
+    "tier": "Premier",
+    "name": "The Boston Major 2016",
+    "icon": "https://liquipedia.net/commons/images/2/2a/Frankfurt_major_small.png",
+    "dates": "Dec 3 - 10, 2016",
+    "prize_pool": 3000000,
+    "teams": "16",
+    "host_location": "United States",
+    "event_location": "Boston"
+}, {
+    "tier": "Premier",
+    "name": "The Summit 6",
+    "icon": "https://liquipedia.net/commons/images/1/1d/Beyond_The_Summit_orig_icon.png",
+    "dates": "Nov 16 - 20, 2016",
+    "prize_pool": 100000,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Premier",
+    "name": "Northern Arena BEAT Invitational",
+    "icon": "https://liquipedia.net/commons/images/8/8e/Northern_Arena_icon.png",
+    "dates": "Nov 10 - 13, 2016",
+    "prize_pool": 100000,
+    "teams": "8",
+    "host_location": "Canada",
+    "event_location": "Montreal"
+}, {
+    "tier": "Premier",
+    "name": "Mars Dota 2 League 2016 Autumn",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "Sep 28 - Oct 2, 2016",
+    "prize_pool": 250000,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Xiamen"
+}, {
+    "tier": "Premier",
+    "name": "The International 2016",
+    "icon": "https://liquipedia.net/commons/images/d/d6/TheInternationalSmall.png",
+    "dates": "Aug 2 - 13, 2016",
+    "prize_pool": 20770460,
+    "teams": "16",
+    "host_location": "United States",
+    "event_location": "Seattle"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder i-League StarSeries Season 2",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Jul 21 - 24, 2016",
+    "prize_pool": 300000,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Premier",
+    "name": "The Summit 5",
+    "icon": "https://liquipedia.net/commons/images/1/1d/Beyond_The_Summit_orig_icon.png",
+    "dates": "Jul 13 - 17, 2016",
+    "prize_pool": 101044,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Premier",
+    "name": "Nanyang Dota 2 Championships Season 2",
+    "icon": "https://liquipedia.net/commons/images/7/76/NanyangChampionshipsLogo_small.png",
+    "dates": "Jul 6 - 10, 2016",
+    "prize_pool": 201270,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "ESL One Frankfurt 2016",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Jun 17 - 19, 2016",
+    "prize_pool": 314545,
+    "teams": "8",
+    "host_location": "Germany",
+    "event_location": "Frankfurt"
+}, {
+    "tier": "Premier",
+    "name": "The Manila Major 2016",
+    "icon": "https://liquipedia.net/commons/images/0/01/Manila_major_small.png",
+    "dates": "Jun 3 - 12, 2016",
+    "prize_pool": 3000000,
+    "teams": "16",
+    "host_location": "Philippines",
+    "event_location": "Manila"
+}, {
+    "tier": "Premier",
+    "name": "EPICENTER 2016",
+    "icon": "https://liquipedia.net/commons/images/2/29/Epicenter_small.png",
+    "dates": "May 9 - 15, 2016",
+    "prize_pool": 500000,
+    "teams": "8",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Premier",
+    "name": "WePlay Dota 2 League Season 3",
+    "icon": "https://liquipedia.net/commons/images/8/83/Weplay_logo_small.png",
+    "dates": "Apr 28 - May 1, 2016",
+    "prize_pool": 208239,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "ESL One Manila 2016",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Apr 22 - 24, 2016",
+    "prize_pool": 250000,
+    "teams": "8",
+    "host_location": "Philippines",
+    "event_location": "Manila"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder i-League Invitational Season 1",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Apr 14 - 17, 2016",
+    "prize_pool": 100000,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "Dota Pit League Season 4",
+    "icon": "https://liquipedia.net/commons/images/d/de/Dotapit_logo_small.png",
+    "dates": "Mar 19 - 20, 2016",
+    "prize_pool": 195274,
+    "teams": "8",
+    "host_location": "Croatia",
+    "event_location": "Split"
+}, {
+    "tier": "Premier",
+    "name": "The Shanghai Major 2016",
+    "icon": "https://liquipedia.net/commons/images/b/ba/Shanghai_major_small.png",
+    "dates": "Feb 25 - Mar 6, 2016",
+    "prize_pool": 3000000,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "MarsTV Dota 2 League 2015 Winter",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "Jan 27 - 31, 2016",
+    "prize_pool": 277668,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Wuxi"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder i-League StarSeries Season 1",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Jan 13 - 17, 2016",
+    "prize_pool": 302227,
+    "teams": "12",
+    "host_location": "Belarus",
+    "event_location": "Minsk"
+}, {
+    "tier": "Premier",
+    "name": "World Cyber Arena 2015",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Dec 17 - 20, 2015",
+    "prize_pool": 663275,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Yinchuan"
+}, {
+    "tier": "Premier",
+    "name": "The Summit 4",
+    "icon": "https://liquipedia.net/commons/images/1/1d/Beyond_The_Summit_orig_icon.png",
+    "dates": "Dec 9 - 13, 2015",
+    "prize_pool": 114866,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Premier",
+    "name": "Game Show Global eSports Cup Season 1",
+    "icon": "https://liquipedia.net/commons/images/a/ac/Game_show_league_logo_small.png",
+    "dates": "Nov 30 - Dec 6, 2015",
+    "prize_pool": 280000,
+    "teams": "6",
+    "host_location": "Russia",
+    "event_location": "Moscow Lithuania"
+}, {
+    "tier": "Premier",
+    "name": "The Frankfurt Major 2015",
+    "icon": "https://liquipedia.net/commons/images/2/2a/Frankfurt_major_small.png",
+    "dates": "Nov 13 - 21, 2015",
+    "prize_pool": 3000000,
+    "teams": "16",
+    "host_location": "Germany",
+    "event_location": "Frankfurt"
+}, {
+    "tier": "Premier",
+    "name": "Nanyang Dota 2 Championships",
+    "icon": "https://liquipedia.net/commons/images/7/76/NanyangChampionshipsLogo_small.png",
+    "dates": "Oct 26 - Nov 1, 2015",
+    "prize_pool": 220183,
+    "teams": "10",
+    "host_location": "Singapore",
+    "event_location": "Singapore"
+}, {
+    "tier": "Premier",
+    "name": "MLG World Finals",
+    "icon": "https://liquipedia.net/commons/images/a/a5/Mlg_logo_small.png",
+    "dates": "Oct 16 - 18, 2015",
+    "prize_pool": 284954,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "New Orleans"
+}, {
+    "tier": "Premier",
+    "name": "ESL One New York 2015",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Oct 3 - 4, 2015",
+    "prize_pool": 286622,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "New York"
+}, {
+    "tier": "Premier",
+    "name": "The International 2015",
+    "icon": "https://liquipedia.net/commons/images/d/d6/TheInternationalSmall.png",
+    "dates": "Jul 27 - Aug 8, 2015",
+    "prize_pool": 18429613,
+    "teams": "16",
+    "host_location": "United States",
+    "event_location": "Seattle"
+}, {
+    "tier": "Premier",
+    "name": "Dota Pit League Season 3",
+    "icon": "https://liquipedia.net/commons/images/d/de/Dotapit_logo_small.png",
+    "dates": "Jan 21 - Jul 12, 2015",
+    "prize_pool": 265378,
+    "teams": "12",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "Esportal Dota 2 League",
+    "icon": "https://liquipedia.net/commons/images/b/b5/Esportal_logo_small.png",
+    "dates": "Nov 28, 2014 - Jul 5, 2015",
+    "prize_pool": 64000,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "ESL One Frankfurt 2015",
+    "icon": "https://liquipedia.net/commons/images/6/6f/Esl_one_small.png",
+    "dates": "Jun 18 - 21, 2015",
+    "prize_pool": 286622,
+    "teams": "8",
+    "host_location": "Germany",
+    "event_location": "Frankfurt"
+}, {
+    "tier": "Premier",
+    "name": "DreamLeague Season 3",
+    "icon": "https://liquipedia.net/commons/images/9/96/Dreamleague_logo_small.png",
+    "dates": "May 4 - Jun 15, 2015",
+    "prize_pool": 149582,
+    "teams": "8",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Premier",
+    "name": "MarsTV Dota 2 League 2015 Spring",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "Jun 3 - 7, 2015",
+    "prize_pool": 241815,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "joinDOTA MLG Pro League Season 2",
+    "icon": "https://liquipedia.net/commons/images/e/ef/MLG-Logo-Small.png",
+    "dates": "Jun 5 - 7, 2015",
+    "prize_pool": 167248,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Austin"
+}, {
+    "tier": "Premier",
+    "name": "i-League Season 3",
+    "icon": "https://liquipedia.net/commons/images/d/d6/I-league_logo_small.png",
+    "dates": "Apr 6 - May 23, 2015",
+    "prize_pool": 426720,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "The Summit 3",
+    "icon": "https://liquipedia.net/commons/images/1/1d/Beyond_The_Summit_orig_icon.png",
+    "dates": "May 13 - 17, 2015",
+    "prize_pool": 271685,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 Champions League Season 5",
+    "icon": "https://liquipedia.net/commons/images/1/15/D2cl_logo_small.png",
+    "dates": "May 9 - 10, 2015",
+    "prize_pool": 79504,
+    "teams": "4",
+    "host_location": "Germany",
+    "event_location": "Berlin"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 12",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Mar 9 - Apr 26, 2015",
+    "prize_pool": 150000,
+    "teams": "8",
+    "host_location": "Romania",
+    "event_location": "Bucharest"
+}, {
+    "tier": "Premier",
+    "name": "joinDOTA MLG Pro League Season 1",
+    "icon": "https://liquipedia.net/commons/images/e/ef/MLG-Logo-Small.png",
+    "dates": "Apr 10 - 12, 2015",
+    "prize_pool": 86461,
+    "teams": "6",
+    "host_location": "United States",
+    "event_location": "Columbus"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 Asia Championships 2015",
+    "icon": "https://liquipedia.net/commons/images/f/f6/Dac_logo_small.png",
+    "dates": "Jan 29 - Feb 9, 2015",
+    "prize_pool": 3057519,
+    "teams": "16",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 11",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Jan 15 - 18, 2015",
+    "prize_pool": 86521,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "i-League Season 2",
+    "icon": "https://liquipedia.net/commons/images/d/d6/I-league_logo_small.png",
+    "dates": "Nov 17, 2014 - Jan 10, 2015",
+    "prize_pool": 129220,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 League Season 5",
+    "icon": "https://liquipedia.net/commons/images/f/f3/D2l_logo_small.png",
+    "dates": "Jan 5 - 6, 2015",
+    "prize_pool": 58397,
+    "teams": "4",
+    "host_location": "United States",
+    "event_location": "Las Vegas"
+}, {
+    "tier": "Premier",
+    "name": "Dota Pit League Season 2",
+    "icon": "https://liquipedia.net/commons/images/d/de/Dotapit_logo_small.png",
+    "dates": "Sep 25 - Dec 23, 2014",
+    "prize_pool": 80589,
+    "teams": "16",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "XMG Captains Draft 2.0",
+    "icon": "https://liquipedia.net/commons/images/5/5c/Dotacinema_logo_small.png",
+    "dates": "Oct 31 - Dec 21, 2014",
+    "prize_pool": 276742,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "The Summit 2",
+    "icon": "https://liquipedia.net/commons/images/1/1d/Beyond_The_Summit_orig_icon.png",
+    "dates": "Dec 3 - 7, 2014",
+    "prize_pool": 310912,
+    "teams": "6",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Premier",
+    "name": "DreamLeague Season 2",
+    "icon": "https://liquipedia.net/commons/images/f/f6/DreamLeague_Icon_orig.png",
+    "dates": "Oct 6 - Nov 29, 2014",
+    "prize_pool": 115560,
+    "teams": "16",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 Champions League Season 4",
+    "icon": "https://liquipedia.net/commons/images/1/15/D2cl_logo_small.png",
+    "dates": "Oct 31 - Nov 2, 2014",
+    "prize_pool": 76235,
+    "teams": "4",
+    "host_location": "Romania",
+    "event_location": "Bucharest"
+}, {
+    "tier": "Premier",
+    "name": "National Electronic Sports Tournament 2014",
+    "icon": "https://liquipedia.net/commons/images/d/d1/Nest.png",
+    "dates": "Oct 30 - Nov 2, 2014",
+    "prize_pool": 60293,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Kunshan"
+}, {
+    "tier": "Premier",
+    "name": "Excellent Moscow Cup 2",
+    "icon": "https://liquipedia.net/commons/images/5/5b/Excellent_moscow_cup_logo_small.png",
+    "dates": "Aug 26 - Oct 29, 2014",
+    "prize_pool": 75575,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 10",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Aug 15 - Oct 26, 2014",
+    "prize_pool": 233980,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "ESL One New York 2014",
+    "icon": "https://liquipedia.net/commons/images/f/f2/ESL_One_Icon_Original.png",
+    "dates": "Oct 9 - 10, 2014",
+    "prize_pool": 141010,
+    "teams": "8",
+    "host_location": "United States",
+    "event_location": "New York"
+}, {
+    "tier": "Premier",
+    "name": "World Cyber Arena 2014",
+    "icon": "https://liquipedia.net/commons/images/9/90/World_Cyber_Arena_logo_small.png",
+    "dates": "Oct 2 - 5, 2014",
+    "prize_pool": 468176,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Yinchuan"
+}, {
+    "tier": "Premier",
+    "name": "i-League Season 1",
+    "icon": "https://liquipedia.net/commons/images/d/d6/I-league_logo_small.png",
+    "dates": "Aug 11 - Sep 28, 2014",
+    "prize_pool": 311655,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "World E-sport Championships 2014",
+    "icon": "https://liquipedia.net/commons/images/b/b5/Wec_logo_small.png",
+    "dates": "Sep 5 - 7, 2014",
+    "prize_pool": 166942,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Hangzhou"
+}, {
+    "tier": "Premier",
+    "name": "The International 2014",
+    "icon": "https://liquipedia.net/commons/images/d/d6/TheInternationalSmall.png",
+    "dates": "Jul 8 - 21, 2014",
+    "prize_pool": 10923977,
+    "teams": "19",
+    "host_location": "United States",
+    "event_location": "Seattle"
+}, {
+    "tier": "Premier",
+    "name": "ESL One Frankfurt 2014",
+    "icon": "https://liquipedia.net/commons/images/f/f2/ESL_One_Icon_Original.png",
+    "dates": "Jun 28 - 29, 2014",
+    "prize_pool": 210900,
+    "teams": "8",
+    "host_location": "Germany",
+    "event_location": "Frankfurt"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 Champions League Season 3",
+    "icon": "https://liquipedia.net/commons/images/1/15/D2cl_logo_small.png",
+    "dates": "Apr 25 - Jun 25, 2014",
+    "prize_pool": 67835,
+    "teams": "12",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "HyperX D2L Western Challenge",
+    "icon": "https://liquipedia.net/commons/images/f/f3/D2l_logo_small.png",
+    "dates": "Apr 1 - Jun 24, 2014",
+    "prize_pool": 68517,
+    "teams": "8",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "DreamLeague Season 1",
+    "icon": "https://liquipedia.net/commons/images/f/f6/DreamLeague_Icon_orig.png",
+    "dates": "Mar 3 - Jun 16, 2014",
+    "prize_pool": 265257,
+    "teams": "12",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Premier",
+    "name": "The Summit",
+    "icon": "https://liquipedia.net/commons/images/1/1d/Beyond_The_Summit_orig_icon.png",
+    "dates": "Jun 5 - 8, 2014",
+    "prize_pool": 132350,
+    "teams": "6",
+    "host_location": "United States",
+    "event_location": "Los Angeles"
+}, {
+    "tier": "Premier",
+    "name": "WPC 2014",
+    "icon": "https://liquipedia.net/commons/images/0/03/Wpc_logo_small.png",
+    "dates": "May 26 - Jun 2, 2014",
+    "prize_pool": 244885,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "MarsTV Dota 2 League 2014",
+    "icon": "https://liquipedia.net/commons/images/8/8a/MDL_logo_small.png",
+    "dates": "May 24 - 25, 2014",
+    "prize_pool": 24047,
+    "teams": "6",
+    "host_location": "China",
+    "event_location": "Jiangyin"
+}, {
+    "tier": "Premier",
+    "name": "Excellent Moscow Cup",
+    "icon": "https://liquipedia.net/commons/images/5/5b/Excellent_moscow_cup_logo_small.png",
+    "dates": "Mar 28 - May 18, 2014",
+    "prize_pool": 20125,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 9",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Apr 17 - 20, 2014",
+    "prize_pool": 190162,
+    "teams": "8",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 Champions League Season 2",
+    "icon": "https://liquipedia.net/commons/images/1/15/D2cl_logo_small.png",
+    "dates": "Feb 9 - Apr 15, 2014",
+    "prize_pool": 124165,
+    "teams": "10",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "Nexon Sponsorship League Season 3",
+    "icon": "https://liquipedia.net/commons/images/4/46/Nexon_logo_small.png",
+    "dates": "Jan 4 - Feb 15, 2014",
+    "prize_pool": 69560,
+    "teams": "8",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Premier",
+    "name": "G-League 2013",
+    "icon": "https://liquipedia.net/commons/images/b/ba/Gleaguelogo_small.png",
+    "dates": "Dec 9, 2013 - Jan 19, 2014",
+    "prize_pool": 44672,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 8",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Nov 25, 2013 - Jan 19, 2014",
+    "prize_pool": 124000,
+    "teams": "18",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 Champions League Season 1",
+    "icon": "https://liquipedia.net/commons/images/1/15/D2cl_logo_small.png",
+    "dates": "Oct 17, 2013 - Jan 15, 2014",
+    "prize_pool": 50000,
+    "teams": "10",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 League Season 4",
+    "icon": "https://liquipedia.net/commons/images/f/f3/D2l_logo_small.png",
+    "dates": "Jan 7 - 8, 2014",
+    "prize_pool": 50000,
+    "teams": "4",
+    "host_location": "United States",
+    "event_location": "Las Vegas"
+}, {
+    "tier": "Premier",
+    "name": "Red Bull ECL 2013 Grand Finals",
+    "icon": "https://liquipedia.net/commons/images/1/10/Ecl_logo_small.png",
+    "dates": "Jan 3 - 7, 2014",
+    "prize_pool": 21476,
+    "teams": "4",
+    "host_location": "China",
+    "event_location": "Beijing"
+}, {
+    "tier": "Premier",
+    "name": "2013 WPC ACE Dota 2 League",
+    "icon": "https://liquipedia.net/commons/images/0/03/Wpc_logo_small.png",
+    "dates": "Sep 22, 2013 - Jan 1, 2014",
+    "prize_pool": 247920,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "Nexon Sponsorship League Season 2",
+    "icon": "https://liquipedia.net/commons/images/4/46/Nexon_logo_small.png",
+    "dates": "Nov 30 - Dec 28, 2013",
+    "prize_pool": 89112,
+    "teams": "8",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Premier",
+    "name": "RaidCall EMS One Fall Season",
+    "icon": "https://liquipedia.net/commons/images/c/c0/EMS-icon.png",
+    "dates": "Sep 2 - Dec 8, 2013",
+    "prize_pool": 39000,
+    "teams": "8",
+    "host_location": "Poland",
+    "event_location": "Tychy"
+}, {
+    "tier": "Premier",
+    "name": "DreamLeague Kick-Off Season",
+    "icon": "https://liquipedia.net/commons/images/f/f6/DreamLeague_Icon_orig.png",
+    "dates": "Nov 4 - 30, 2013",
+    "prize_pool": 50000,
+    "teams": "6",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Premier",
+    "name": "MLG Championship Columbus",
+    "icon": "https://liquipedia.net/commons/images/b/b7/MLG-icon.png",
+    "dates": "Nov 22 - 24, 2013",
+    "prize_pool": 136960,
+    "teams": "9",
+    "host_location": "United States",
+    "event_location": "Columbus"
+}, {
+    "tier": "Premier",
+    "name": "Techlabs Cup 2013 Grand Final",
+    "icon": "https://liquipedia.net/commons/images/d/d3/Techlabs_logo_small.png",
+    "dates": "Nov 16 - 17, 2013",
+    "prize_pool": 25000,
+    "teams": "4",
+    "host_location": "Russia",
+    "event_location": "Moscow"
+}, {
+    "tier": "Premier",
+    "name": "National Electronic Sports Tournament 2013",
+    "icon": "https://liquipedia.net/commons/images/d/d1/Nest.png",
+    "dates": "Nov 8 - 10, 2013",
+    "prize_pool": 35526,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "WePlay Dota2 League Season 2",
+    "icon": "https://liquipedia.net/commons/images/1/1c/WePlay_logo.png",
+    "dates": "Sep 11 - Nov 10, 2013",
+    "prize_pool": 25000,
+    "teams": "20",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "Nexon Sponsorship League Season 1",
+    "icon": "https://liquipedia.net/commons/images/4/46/Nexon_logo_small.png",
+    "dates": "Sep 28 - Nov 10, 2013",
+    "prize_pool": 112920,
+    "teams": "16",
+    "host_location": "Korea",
+    "event_location": "Seoul"
+}, {
+    "tier": "Premier",
+    "name": "Electronic Sports World Cup 2013",
+    "icon": "https://liquipedia.net/commons/images/1/13/ESWC-logo-small.png",
+    "dates": "Oct 31 - Nov 3, 2013",
+    "prize_pool": 25000,
+    "teams": "12",
+    "host_location": "France",
+    "event_location": "Paris"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 7",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Aug 31 - Oct 13, 2013",
+    "prize_pool": 22500,
+    "teams": "16",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "The International 2013",
+    "icon": "https://liquipedia.net/commons/images/d/d6/TheInternationalSmall.png",
+    "dates": "Aug 2 - 11, 2013",
+    "prize_pool": 2874380,
+    "teams": "16",
+    "host_location": "United States",
+    "event_location": "Seattle"
+}, {
+    "tier": "Premier",
+    "name": "The Defense Season 4",
+    "icon": "https://liquipedia.net/commons/images/e/ea/Thedefenselogo_small.png",
+    "dates": "May 21 - Jul 24, 2013",
+    "prize_pool": 25000,
+    "teams": "20",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "The Premier League Season 5",
+    "icon": "https://liquipedia.net/commons/images/4/46/TPLlogo_std.png",
+    "dates": "May 20 - Jul 21, 2013",
+    "prize_pool": 15500,
+    "teams": "8",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "RaidCall Dota 2 League Season 3",
+    "icon": "https://liquipedia.net/commons/images/f/f3/D2l_logo_small.png",
+    "dates": "May 20 - Jul 17, 2013",
+    "prize_pool": 10000,
+    "teams": "8",
+    "host_location": "Spain",
+    "event_location": "Valencia"
+}, {
+    "tier": "Premier",
+    "name": "RaidCall EMS One Summer Season",
+    "icon": "https://liquipedia.net/commons/images/c/c0/EMS-icon.png",
+    "dates": "Jun 19 - Jul 14, 2013",
+    "prize_pool": 35000,
+    "teams": "12",
+    "host_location": "Poland",
+    "event_location": "Katowice"
+}, {
+    "tier": "Premier",
+    "name": "RedBull ECL 2013 Dota 2 Season",
+    "icon": "https://liquipedia.net/commons/images/1/10/Ecl_logo_small.png",
+    "dates": "Jul 10 - 14, 2013",
+    "prize_pool": 21165,
+    "teams": "12",
+    "host_location": "China",
+    "event_location": "Beijing"
+}, {
+    "tier": "Premier",
+    "name": "Alienware Cup 2013 - Season 1",
+    "icon": "https://liquipedia.net/commons/images/8/83/Alienware_black_logo_small.png",
+    "dates": "Jun 16 - Jul 9, 2013",
+    "prize_pool": 60000,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 6",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "May 19 - Jul 7, 2013",
+    "prize_pool": 22500,
+    "teams": "16",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "Dota 2 Super League",
+    "icon": "https://liquipedia.net/commons/images/c/cc/DSLlogo_small.png",
+    "dates": "May 10 - Jul 6, 2013",
+    "prize_pool": 163050,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "DreamHack Summer 2013",
+    "icon": "https://liquipedia.net/commons/images/9/90/DH-star.png",
+    "dates": "Jun 15 - 17, 2013",
+    "prize_pool": 46422,
+    "teams": "16",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Premier",
+    "name": "G-1 Champions League Season 5",
+    "icon": "https://liquipedia.net/commons/images/0/0f/G1logo_small.png",
+    "dates": "May 24 - 26, 2013",
+    "prize_pool": 65156,
+    "teams": "6",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "The Premier League Season 4",
+    "icon": "https://liquipedia.net/commons/images/4/46/TPLlogo_std.png",
+    "dates": "Feb 10 - Apr 28, 2013",
+    "prize_pool": 10000,
+    "teams": "10",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "RaidCall EMS One Spring Season",
+    "icon": "https://liquipedia.net/commons/images/c/c0/EMS-icon.png",
+    "dates": "Mar 18 - Apr 21, 2013",
+    "prize_pool": 35000,
+    "teams": "16",
+    "host_location": "Poland",
+    "event_location": "Katowice"
+}, {
+    "tier": "Premier",
+    "name": "RaidCall Dota 2 League Season 2",
+    "icon": "https://liquipedia.net/commons/images/f/f3/D2l_logo_small.png",
+    "dates": "Dec 12, 2012 - Apr 10, 2013",
+    "prize_pool": 10000,
+    "teams": "12",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 5",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Feb 11 - Apr 7, 2013",
+    "prize_pool": 15000,
+    "teams": "16",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "The Defense Season 3",
+    "icon": "https://liquipedia.net/commons/images/e/ea/Thedefenselogo_small.png",
+    "dates": "Nov 26, 2012 - Mar 30, 2013",
+    "prize_pool": 20000,
+    "teams": "32",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "G-League Season 2",
+    "icon": "https://liquipedia.net/commons/images/b/ba/Gleaguelogo_small.png",
+    "dates": "Dec 24, 2012 - Mar 9, 2013",
+    "prize_pool": 41834,
+    "teams": "8",
+    "host_location": "China",
+    "event_location": "Shanghai"
+}, {
+    "tier": "Premier",
+    "name": "The Premier League Season 3",
+    "icon": "https://liquipedia.net/commons/images/4/46/TPLlogo_std.png",
+    "dates": "Oct 3, 2012 - Jan 13, 2013",
+    "prize_pool": 6000,
+    "teams": "10",
+    "host_location": "Europe",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 4",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Nov 13 - Dec 23, 2012",
+    "prize_pool": 15000,
+    "teams": "16",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "The Asia 2012",
+    "icon": "https://liquipedia.net/commons/images/b/bf/Asia.png",
+    "dates": "Dec 22 - 23, 2012",
+    "prize_pool": 30000,
+    "teams": "11",
+    "host_location": "Malaysia",
+    "event_location": "Kuala Lampur"
+}, {
+    "tier": "Premier",
+    "name": "ASUS Open 2012 Finals",
+    "icon": "https://liquipedia.net/commons/images/a/aa/Asus.png",
+    "dates": "Dec 13 - 16, 2012",
+    "prize_pool": 15000,
+    "teams": "12",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "Thor Open 2012",
+    "icon": "https://liquipedia.net/commons/images/a/af/Thorlogo_small.png",
+    "dates": "Dec 8 - 9, 2012",
+    "prize_pool": 19460,
+    "teams": "8",
+    "host_location": "Sweden",
+    "event_location": "Stockholm"
+}, {
+    "tier": "Premier",
+    "name": "World Cyber Games 2012",
+    "icon": "https://liquipedia.net/commons/images/b/bc/Wcg_logo.png",
+    "dates": "Nov 29 - Dec 2, 2012",
+    "prize_pool": 33000,
+    "teams": "9",
+    "host_location": "China",
+    "event_location": "Kunshan"
+}, {
+    "tier": "Premier",
+    "name": "DreamHack Winter 2012",
+    "icon": "https://liquipedia.net/commons/images/9/90/DH-star.png",
+    "dates": "Nov 22 - 25, 2012",
+    "prize_pool": 30198,
+    "teams": "16",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Premier",
+    "name": "RaidCall Dota 2 League Season 1",
+    "icon": "https://liquipedia.net/commons/images/f/f3/D2l_logo_small.png",
+    "dates": "Sep 10 - Nov 18, 2012",
+    "prize_pool": 10000,
+    "teams": "8",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "G-1 Champions League Season 4",
+    "icon": "https://liquipedia.net/commons/images/0/0f/G1logo_small.png",
+    "dates": "Oct 22 - Nov 18, 2012",
+    "prize_pool": 52879,
+    "teams": "10",
+    "host_location": "China",
+    "event_location": "Fuzhou"
+}, {
+    "tier": "Premier",
+    "name": "Electronic Sports World Cup 2012",
+    "icon": "https://liquipedia.net/commons/images/1/13/ESWC-logo-small.png",
+    "dates": "Nov 3 - 4, 2012",
+    "prize_pool": 25000,
+    "teams": "8",
+    "host_location": "France",
+    "event_location": "Paris"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 3",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Oct 18 - 21, 2012",
+    "prize_pool": 15000,
+    "teams": "7",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "The International 2012",
+    "icon": "https://liquipedia.net/commons/images/d/d6/TheInternationalSmall.png",
+    "dates": "Aug 26 - Sep 2, 2012",
+    "prize_pool": 1600000,
+    "teams": "16",
+    "host_location": "United States",
+    "event_location": "Seattle"
+}, {
+    "tier": "Premier",
+    "name": "The Defense Season 2",
+    "icon": "https://liquipedia.net/commons/images/e/ea/Thedefenselogo_small.png",
+    "dates": "Jun 21 - Aug 12, 2012",
+    "prize_pool": 12291,
+    "teams": "24",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "Prodota 2 Worldwide League",
+    "icon": "https://liquipedia.net/commons/images/b/b7/Prodotalogo_small.png",
+    "dates": "Apr 13 - Aug 5, 2012",
+    "prize_pool": 20000,
+    "teams": "24",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 2",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "May 16 - Jul 15, 2012",
+    "prize_pool": 15000,
+    "teams": "16",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "The Premier League Season 2",
+    "icon": "https://liquipedia.net/commons/images/4/46/TPLlogo_std.png",
+    "dates": "Apr 17 - Jul 8, 2012",
+    "prize_pool": 10000,
+    "teams": "12",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "DreamHack Summer 2012",
+    "icon": "https://liquipedia.net/commons/images/9/90/DH-star.png",
+    "dates": "Jun 16 - 18, 2012",
+    "prize_pool": 28772,
+    "teams": "16",
+    "host_location": "Sweden",
+    "event_location": "Jo\u0308nko\u0308ping"
+}, {
+    "tier": "Premier",
+    "name": "StarLadder StarSeries Season 1",
+    "icon": "https://liquipedia.net/commons/images/f/f0/Starladder-icon.png",
+    "dates": "Mar 12 - Apr 29, 2012",
+    "prize_pool": 15000,
+    "teams": "16",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "The Premier League Season 1",
+    "icon": "https://liquipedia.net/commons/images/4/46/TPLlogo_std.png",
+    "dates": "Jan 4 - Mar 11, 2012",
+    "prize_pool": 10000,
+    "teams": "10",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "The Defense Season 1",
+    "icon": "https://liquipedia.net/commons/images/e/ea/Thedefenselogo_small.png",
+    "dates": "Nov 15, 2011 - Mar 4, 2012",
+    "prize_pool": 13196,
+    "teams": "24",
+    "host_location": "World",
+    "event_location": "Online"
+}, {
+    "tier": "Premier",
+    "name": "Dota2 Star Championship",
+    "icon": "https://liquipedia.net/commons/images/4/44/Logo_filler_event.png",
+    "dates": "Dec 8 - 11, 2011",
+    "prize_pool": 20000,
+    "teams": "16",
+    "host_location": "Ukraine",
+    "event_location": "Kiev"
+}, {
+    "tier": "Premier",
+    "name": "Electronic Sports World Cup 2011",
+    "icon": "https://liquipedia.net/commons/images/1/13/ESWC-logo-small.png",
+    "dates": "Oct 23 - 25, 2011",
+    "prize_pool": 22000,
+    "teams": "12",
+    "host_location": "France",
+    "event_location": "Paris"
+}, {
+    "tier": "Premier",
+    "name": "The International 2011",
+    "icon": "https://liquipedia.net/commons/images/d/d6/TheInternationalSmall.png",
+    "dates": "Aug 17 - 21, 2011",
+    "prize_pool": 1600000,
+    "teams": "16",
+    "host_location": "Germany",
+    "event_location": "Cologne"
+}]
