@@ -1,0 +1,15 @@
+# Dependencies
+spacy==2.1.8
+python-crfsuite==0.9.6
+nltk==3.4.5
+regex
+Django==2.2.6
+beautifulsoup4==4.6.3
+pymagnitude
+
+# Development
+black
+pylint
+flake8
+mypy
+pytest

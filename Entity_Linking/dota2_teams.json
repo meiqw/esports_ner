@@ -1,0 +1,1639 @@
+[{
+    "name": "Chaos Esports Club",
+    "aliases": ["Chaos Esports Club", "Digital Chaos"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Chaos_Esports_Club"
+}, {
+    "name": "Demon Slayers",
+    "aliases": ["Demon Slayers"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Demon_Slayers"
+}, {
+    "name": "Evil Geniuses",
+    "aliases": ["Evil Geniuses", "EG"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Evil_Geniuses"
+}, {
+    "name": "Fighting PandaS",
+    "aliases": ["Fighting Pandas", "Fighting Pepegas"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Fighting_PandaS"
+}, {
+    "name": "J.Storm",
+    "aliases": ["J.Storm"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/J.Storm"
+}, {
+    "name": "Ninjas in Pyjamas",
+    "aliases": ["Ninjas in Pyjamas", "NiP"],
+    "Location": "Sweden",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Ninjas_in_Pyjamas"
+}, {
+    "name": "Team Xolotl",
+    "aliases": ["Team Xolotl"],
+    "Location": "Mexico",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Team_Xolotl"
+}, {
+    "name": "beastcoast",
+    "aliases": ["beastcoast"],
+    "Location": "United States",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/beastcoast"
+}, {
+    "name": "EgoBoys",
+    "aliases": ["EgoBoys"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/EgoBoys"
+}, {
+    "name": "FURIA Esports",
+    "aliases": [],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/FURIA_Esports"
+}, {
+    "name": "Gorillaz-Pride",
+    "aliases": [],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Gorillaz-Pride"
+}, {
+    "name": "Infamous",
+    "aliases": [],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Infamous"
+}, {
+    "name": "NoPing e-sports",
+    "aliases": [],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/NoPing_e-sports"
+}, {
+    "name": "paiN Gaming",
+    "aliases": ["paiN Gaming"],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/paiN_Gaming"
+}, {
+    "name": "Thunder Predator",
+    "aliases": ["Thunder Predator", "Thunder Awaken"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Thunder_Predator"
+}, {
+    "name": "Team Unknown",
+    "aliases": ["Team Unknown"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Team_Unknown"
+}, {
+    "name": "Ad Finem",
+    "aliases": ["Ad Finem", "AF"],
+    "Location": "Greece",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Ad_Finem"
+}, {
+    "name": "Alliance",
+    "aliases": ["Alliance"],
+    "Location": "Sweden",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Alliance"
+}, {
+    "name": "Godsent",
+    "aliases": ["Godsent"],
+    "Location": "Sweden",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Godsent"
+}, {
+    "name": "Hippomaniacs",
+    "aliases": ["Hippomaniacs"],
+    "Location": "Slovakia",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Hippomaniacs"
+}, {
+    "name": "Nigma",
+    "aliases": ["Nigma"],
+    "Location": "Europe",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Nigma"
+}, {
+    "name": "OG",
+    "aliases": ["OG"],
+    "Location": "Europe",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/OG"
+}, {
+    "name": "OG Seed",
+    "aliases": ["OG Seed"],
+    "Location": "Europe",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/OG_Seed"
+}, {
+    "name": "Team Liquid",
+    "aliases": ["Team Liquid"],
+    "Location": "Netherlands",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Team_Liquid"
+}, {
+    "name": "Team Secret",
+    "aliases": ["Team Secret"],
+    "Location": "Europe",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Team_Secret"
+}, {
+    "name": "Team Singularity",
+    "aliases": ["Team Singularity"],
+    "Location": "Denmark",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Team_Singularity"
+}, {
+    "name": "Vikin.gg",
+    "aliases": ["Vikin.gg"],
+    "Location": "Romania",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Vikin.gg"
+}, {
+    "name": "Wind and Rain",
+    "aliases": ["Wind and Rain"],
+    "Location": "United Kingdom",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Wind_and_Rain"
+}, {
+    "name": "Zero Respect",
+    "aliases": [],
+    "Location": "France",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Zero_Respect"
+}, {
+    "name": "CyberDogs",
+    "aliases": [],
+    "Location": "Kazakhstan",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/CyberDogs"
+}, {
+    "name": "FlyToMoon",
+    "aliases": ["FlyToMoon"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/FlyToMoon"
+}, {
+    "name": "Gambit Esports",
+    "aliases": ["Gambit Esports", "Gambit Gaming"],
+    "Location": "United Kingdom",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Gambit_Esports"
+}, {
+    "name": "HellRaisers",
+    "aliases": ["HellRaisers"],
+    "Location": "Ukraine",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/HellRaisers"
+}, {
+    "name": "Imperial Pro Gaming",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Imperial_Pro_Gaming"
+}, {
+    "name": "Khan",
+    "aliases": [],
+    "Location": "Kazakhstan",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Khan"
+}, {
+    "name": "Natus Vincere",
+    "aliases": ["Na'Vi", "NaVi"],
+    "Location": "Ukraine",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Natus_Vincere"
+}, {
+    "name": "Nemiga Gaming",
+    "aliases": ["Nemiga", "\"Nemiga\"", "Minsk"],
+    "Location": "Belarus",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Nemiga_Gaming"
+}, {
+    "name": "Pavaga Gaming",
+    "aliases": ["Pavaga Gaming"],
+    "Location": "Belarus",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Pavaga_Gaming"
+}, {
+    "name": "PRIES",
+    "aliases": [],
+    "Location": "Ukraine",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/PRIES"
+}, {
+    "name": "Se7en eSports",
+    "aliases": [],
+    "Location": "Kazakhstan",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Se7en_eSports"
+}, {
+    "name": "SMARACIS eSports",
+    "aliases": [],
+    "Location": "Austria",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/SMARACIS_eSports"
+}, {
+    "name": "Team Empire",
+    "aliases": ["Team Empire"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Team_Empire"
+}, {
+    "name": "Team Spirit",
+    "aliases": ["Team Spirit"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Team_Spirit"
+}, {
+    "name": "Team Unique",
+    "aliases": ["Unique"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Team_Unique"
+}, {
+    "name": "The Pango",
+    "aliases": ["The Pango", "NoPangolier"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/The_Pango"
+}, {
+    "name": "TPB",
+    "aliases": ["TechPromBiz"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/TPB"
+}, {
+    "name": "Virtus.pro",
+    "aliases": ["VP"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Virtus.pro"
+}, {
+    "name": "Winstrike Team",
+    "aliases": ["Winstrike Team"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Winstrike_Team"
+}, {
+    "name": "CDEC Avenger",
+    "aliases": ["CDEC.A"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/CDEC_Avenger"
+}, {
+    "name": "CDEC Gaming",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/CDEC_Gaming"
+}, {
+    "name": "Eclipse",
+    "aliases": ["Eclipse"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Eclipse"
+}, {
+    "name": "EHOME",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/EHOME"
+}, {
+    "name": "For The Dream",
+    "aliases": ["FTD"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/For_The_Dream"
+}, {
+    "name": "iG Vitality",
+    "aliases": ["IG.V"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/iG_Vitality"
+}, {
+    "name": "Invictus Gaming",
+    "aliases": ["IG"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Invictus_Gaming"
+}, {
+    "name": "Keen Gaming",
+    "aliases": ["KG"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Keen_Gaming"
+}, {
+    "name": "KG.Luminous",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/KG.Luminous"
+}, {
+    "name": "Newbee",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Newbee"
+}, {
+    "name": "Newbee Young",
+    "aliases": ["NB.Y"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Newbee_Young"
+}, {
+    "name": "PSG.LGD",
+    "aliases": ["LGD Gaming", "LGD"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/PSG.LGD"
+}, {
+    "name": "Revive",
+    "aliases": ["Revive"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Revive"
+}, {
+    "name": "Royal Never Give Up",
+    "aliases": ["Royal Never Give Up"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Royal_Never_Give_Up"
+}, {
+    "name": "Team Aster",
+    "aliases": ["Team Aster"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Team_Aster"
+}, {
+    "name": "Team Serenity",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Team_Serenity"
+}, {
+    "name": "Team Sirius",
+    "aliases": ["Team Sirius"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Team_Sirius"
+}, {
+    "name": "Vici Gaming",
+    "aliases": ["VG"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Vici_Gaming"
+}, {
+    "name": "Vici Gaming Potential",
+    "aliases": ["VG.P"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Vici_Gaming_Potential"
+}, {
+    "name": "You Know Who",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/You_Know_Who"
+}, {
+    "name": "496 Gaming",
+    "aliases": ["496 Gaming"],
+    "Location": "Vietnam",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/496_Gaming"
+}, {
+    "name": "Alpha x Hashtag",
+    "aliases": ["Alpha x Hashtag"],
+    "Location": "Thailand",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Alpha_x_Hashtag"
+}, {
+    "name": "Athletico Esports",
+    "aliases": ["Athletico Esports", "Athletico Brotherhood", "Athletico"],
+    "Location": "Australia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Athletico_Esports"
+}, {
+    "name": "BOOM Esports",
+    "aliases": ["BOOM Esports", "BOOM ID"],
+    "Location": "Indonesia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/BOOM_Esports"
+}, {
+    "name": "Cignal Ultra",
+    "aliases": ["Cignal Ultra", "Cignal TV, Inc."],
+    "Location": "Philippines",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Cignal_Ultra"
+}, {
+    "name": "Dark Sided",
+    "aliases": [],
+    "Region": "South East Asia",
+    "Director": "Australia",
+    "link": "https://liquipedia.net/dota2/Dark_Sided"
+}, {
+    "name": "Dota Hero",
+    "aliases": ["Team Dota Hero"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Dota_Hero"
+}, {
+    "name": "Execration",
+    "aliases": ["Execration", "XctN"],
+    "Location": "Philippines",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Execration"
+}, {
+    "name": "Fnatic",
+    "aliases": [],
+    "Location": "United Kingdom",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Fnatic"
+}, {
+    "name": "Geek Fam",
+    "aliases": ["Geek Fam"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Geek_Fam"
+}, {
+    "name": "Lowkey Esports",
+    "aliases": ["Lowkey Esports"],
+    "Location": "United States",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Lowkey_Esports"
+}, {
+    "name": "Neon Esports",
+    "aliases": ["Neon Esports"],
+    "Location": "Philippines",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Neon_Esports"
+}, {
+    "name": "PG.Barracx",
+    "aliases": ["PondokGaming BarracX", "PondokGaming Orca", "PondokGaming Godlike"],
+    "Location": "Indonesia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/PG.Barracx"
+}, {
+    "name": "Reality Rift",
+    "aliases": ["Reality Rift"],
+    "Location": "Russia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Reality_Rift"
+}, {
+    "name": "Resurgence",
+    "aliases": ["Resurgence"],
+    "Location": "Singapore",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Resurgence"
+}, {
+    "name": "RRQ.Trust",
+    "aliases": [],
+    "Location": "Thailand",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/RRQ.Trust"
+}, {
+    "name": "T1",
+    "aliases": ["T1", "SK Telecom T1"],
+    "Location": "South Korea",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/T1"
+}, {
+    "name": "Team Adroit",
+    "aliases": ["Team Adroit"],
+    "Location": "Philippines",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Team_Adroit"
+}, {
+    "name": "Team Amplfy",
+    "aliases": ["Team Amplfy", "Team Admiral"],
+    "Location": "Philippines",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Team_Amplfy"
+}, {
+    "name": "Team Oracle",
+    "aliases": ["Team Oracle"],
+    "Location": "Australia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Team_Oracle"
+}, {
+    "name": "TNC Predator",
+    "aliases": ["TNC Predator"],
+    "Location": "Philippines",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/TNC_Predator"
+}, {
+    "name": "Veteran",
+    "aliases": ["Team Veteran"],
+    "Location": "Myanmar",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Veteran"
+}, {
+    "name": "Cloud9",
+    "aliases": ["Cloud9", "C9"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Cloud9"
+}, {
+    "name": "Complexity Gaming",
+    "aliases": ["Complexity Gaming"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Complexity_Gaming"
+}, {
+    "name": "FDL",
+    "aliases": ["Friendship, Dedication, Love", "FDL"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/FDL"
+}, {
+    "name": "Flying Penguins",
+    "aliases": ["Flying Penguins"],
+    "Location": "Canada",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Flying_Penguins"
+}, {
+    "name": "Forward Gaming",
+    "aliases": ["Forward Gaming"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Forward_Gaming"
+}, {
+    "name": "Immortals",
+    "aliases": ["Immortals"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Immortals"
+}, {
+    "name": "Na`Vi North America",
+    "aliases": [],
+    "Location": "Ukraine",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Na`Vi_North_America"
+}, {
+    "name": "NA Rejects",
+    "aliases": ["Na'Vi.US"],
+    "Location": "USA",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/NA_Rejects"
+}, {
+    "name": "OpTic Gaming",
+    "aliases": ["OpTic Gaming"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/OpTic_Gaming"
+}, {
+    "name": "Planet Odd",
+    "aliases": [],
+    "Location": "Sweden",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Planet_Odd"
+}, {
+    "name": "PotM Bottom",
+    "aliases": ["PotM Bottom"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/PotM_Bottom"
+}, {
+    "name": "Pretty Boy Swag",
+    "aliases": ["Pretty Boy Swag"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Pretty_Boy_Swag"
+}, {
+    "name": "ROOONS",
+    "aliases": ["ROOONS"],
+    "Location": "North America",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/ROOONS"
+}, {
+    "name": "Shazam",
+    "aliases": [],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Shazam"
+}, {
+    "name": "Sneaky Nyx Assassins",
+    "aliases": [],
+    "Location": "USA",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Sneaky_Nyx_Assassins"
+}, {
+    "name": "Summer's Rift",
+    "aliases": [],
+    "Location": "USA",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Summer's_Rift"
+}, {
+    "name": "Team Archon",
+    "aliases": ["Team Archon", "\u201cAmaz\u201d"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Team_Archon"
+}, {
+    "name": "Team Dignitas",
+    "aliases": [],
+    "Location": "United Kingdom",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Team_Dignitas"
+}, {
+    "name": "Team Freedom",
+    "aliases": ["Team Freedom"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Team_Freedom"
+}, {
+    "name": "Team Leviathan",
+    "aliases": [],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Team_Leviathan"
+}, {
+    "name": "Team NP",
+    "aliases": ["Team NP"],
+    "Location": "Canada",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Team_NP"
+}, {
+    "name": "TEAM TEAM",
+    "aliases": ["TEAM TEAM"],
+    "Region": "North America",
+    "Total Earnings": "$54,600",
+    "link": "https://liquipedia.net/dota2/TEAM_TEAM"
+}, {
+    "name": "Team Tinker",
+    "aliases": [],
+    "Location": "Canada",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Team_Tinker"
+}, {
+    "name": "Thunderbirds",
+    "aliases": [],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Thunderbirds"
+}, {
+    "name": "VGJ.Storm",
+    "aliases": [],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/VGJ.Storm"
+}, {
+    "name": "Void Boys",
+    "aliases": [],
+    "Location": "Canada",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Void_Boys"
+}, {
+    "name": "Wheel Whreck",
+    "aliases": ["Wheel Whreck While Whistling"],
+    "Location": "United States",
+    "Region": "North America",
+    "link": "https://liquipedia.net/dota2/Wheel_Whreck"
+}, {
+    "name": "Artyk Gaming",
+    "aliases": ["Artyk Gaming"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Artyk_Gaming"
+}, {
+    "name": "CDM eSports",
+    "aliases": [],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/CDM_eSports"
+}, {
+    "name": "CNB e-Sports Club",
+    "aliases": ["CNB e-Sports Club"],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/CNB_e-Sports_Club"
+}, {
+    "name": "Demolition Boys",
+    "aliases": ["Demolition Boys", "Playmakers Esports", "Team Odd"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Demolition_Boys"
+}, {
+    "name": "Elite Wolves",
+    "aliases": ["Elite Wolves"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Elite_Wolves"
+}, {
+    "name": "INTZ eSports",
+    "aliases": ["INTZ eSports"],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/INTZ_eSports"
+}, {
+    "name": "Isurus Gaming",
+    "aliases": [],
+    "Location": "Argentina",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Isurus_Gaming"
+}, {
+    "name": "Keyd Stars",
+    "aliases": ["Keyd Stars"],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Keyd_Stars"
+}, {
+    "name": "Kingao+4",
+    "aliases": [],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Kingao+4"
+}, {
+    "name": "Luccini",
+    "aliases": ["Luccini"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Luccini"
+}, {
+    "name": "Mad Kings",
+    "aliases": [],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Mad_Kings"
+}, {
+    "name": "Majestic esports",
+    "aliases": ["Majestic Esports"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Majestic_esports"
+}, {
+    "name": "Midas Club",
+    "aliases": ["Midas Club"],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Midas_Club"
+}, {
+    "name": "Not Today",
+    "aliases": [],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Not_Today"
+}, {
+    "name": "paiN X",
+    "aliases": [],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/paiN_X"
+}, {
+    "name": "Playmakers Esports",
+    "aliases": ["Playmakers Esports"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Playmakers_Esports"
+}, {
+    "name": "Revenge eSports",
+    "aliases": ["Revenge eSports"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Revenge_eSports"
+}, {
+    "name": "Sacred",
+    "aliases": ["Sacred"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Sacred"
+}, {
+    "name": "Sector V",
+    "aliases": ["Sector V"],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Sector_V"
+}, {
+    "name": "SG e-sports",
+    "aliases": ["SG"],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/SG_e-sports"
+}, {
+    "name": "T Show.Rising",
+    "aliases": ["T Show"],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/T_Show.Rising"
+}, {
+    "name": "Team Anvorgesa",
+    "aliases": [],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Team_Anvorgesa"
+}, {
+    "name": "Team DileCom",
+    "aliases": [],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Team_DileCom"
+}, {
+    "name": "Union Gaming",
+    "aliases": [],
+    "Location": "Peru",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Union_Gaming"
+}, {
+    "name": "Union Gaming BO",
+    "aliases": [],
+    "Location": "Bolivia",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Union_Gaming_BO"
+}, {
+    "name": "VINCE TE IPSUM",
+    "aliases": ["Vince Te Ipsum", "vTi"],
+    "Location": "Brazil",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/VINCE_TE_IPSUM"
+}, {
+    "name": "Vultur",
+    "aliases": ["Vultur"],
+    "Location": "Argentina",
+    "Region": "South America",
+    "link": "https://liquipedia.net/dota2/Vultur"
+}, {
+    "name": "(monkey) Business",
+    "aliases": [],
+    "Location": "Europe",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/(monkey)_Business"
+}, {
+    "name": "4 Anchors + SC",
+    "aliases": [],
+    "Location": "Finland",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/4_Anchors_+_SC"
+}, {
+    "name": "4 Clover & Lepricon",
+    "aliases": ["4 Clover & Lepricon"],
+    "Location": "Europe",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/4_Clover_&_Lepricon"
+}, {
+    "name": "ALTERNATE aTTaX",
+    "aliases": [],
+    "Location": "Germany",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/ALTERNATE_aTTaX"
+}, {
+    "name": "Basically Unknown",
+    "aliases": [],
+    "Location": "Bulgaria",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Basically_Unknown"
+}, {
+    "name": "Burden United",
+    "aliases": ["Burden United"],
+    "Location": "Europe",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Burden_United"
+}, {
+    "name": "Escape Gaming",
+    "aliases": [],
+    "Location": "Germany",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Escape_Gaming"
+}, {
+    "name": "Flipsid3 Tactics",
+    "aliases": [],
+    "Location": "United States",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Flipsid3_Tactics"
+}, {
+    "name": "Horde",
+    "aliases": ["Horde"],
+    "Location": "Sweden",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Horde"
+}, {
+    "name": "Kaipi",
+    "aliases": [],
+    "Location": "Romania",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Kaipi"
+}, {
+    "name": "Meet Your Makers",
+    "aliases": [],
+    "Location": "Germany",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Meet_Your_Makers"
+}, {
+    "name": "mousesports",
+    "aliases": ["mous"],
+    "Location": "Germany",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/mousesports"
+}, {
+    "name": "Mortal Teamwork",
+    "aliases": [],
+    "Location": "Germany",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Mortal_Teamwork"
+}, {
+    "name": "No Diggity",
+    "aliases": ["No Diggity"],
+    "Location": "Europe",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/No_Diggity"
+}, {
+    "name": "No Logic Gaming",
+    "aliases": [],
+    "Location": "Europe",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/No_Logic_Gaming"
+}, {
+    "name": "No Tidehunter",
+    "aliases": ["No Tidehunter", "nth", "Alliance"],
+    "Location": "Sweden",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/No_Tidehunter"
+}, {
+    "name": "PENTA Sports",
+    "aliases": [],
+    "Location": "Germany",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/PENTA_Sports"
+}, {
+    "name": "Prodota Gaming",
+    "aliases": [],
+    "Location": "United Kingdom",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Prodota_Gaming"
+}, {
+    "name": "Quantic Gaming",
+    "aliases": [],
+    "Location": "United States",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Quantic_Gaming"
+}, {
+    "name": "Sigma.int",
+    "aliases": ["Sigma"],
+    "Location": "France",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Sigma.int"
+}, {
+    "name": "Speed Gaming.int",
+    "aliases": [],
+    "Location": "Europe",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Speed_Gaming.int"
+}, {
+    "name": "Team Kinguin",
+    "aliases": ["Team Kinguin"],
+    "Location": "Poland",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Team_Kinguin"
+}, {
+    "name": "The Final Tribe",
+    "aliases": ["The Final Tribe"],
+    "Location": "Sweden",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/The_Final_Tribe"
+}, {
+    "name": "The Imperial",
+    "aliases": [],
+    "Location": "United Kingdom",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/The_Imperial"
+}, {
+    "name": "Unchained Esports",
+    "aliases": ["Unchained eSports"],
+    "Location": "Turkey",
+    "Region": "Europe",
+    "link": "https://liquipedia.net/dota2/Unchained_Esports"
+}, {
+    "name": "ASUS Polar",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/ASUS_Polar"
+}, {
+    "name": "Cascade",
+    "aliases": ["Cascade"],
+    "Location": "Ukraine",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Cascade"
+}, {
+    "name": "CIS Rejects",
+    "aliases": ["CIS Rejects"],
+    "Location": "Ukraine",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/CIS_Rejects"
+}, {
+    "name": "Comanche",
+    "aliases": ["Comanche"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Comanche"
+}, {
+    "name": "Double Dimension",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Double_Dimension"
+}, {
+    "name": "Duza Gaming",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Duza_Gaming"
+}, {
+    "name": "Effect",
+    "aliases": ["Effect"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Effect"
+}, {
+    "name": "Elements Pro",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Elements_Pro"
+}, {
+    "name": "Espada",
+    "aliases": ["Espada"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Espada"
+}, {
+    "name": "F.R.I.E.N.D.S.",
+    "aliases": ["F.R.I.E.N.D.S\""],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/F.R.I.E.N.D.S."
+}, {
+    "name": "Fantastic Five",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Fantastic_Five"
+}, {
+    "name": "FCDB Esports",
+    "aliases": ["FCDB Esports"],
+    "Location": "Belarus",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/FCDB_Esports"
+}, {
+    "name": "ferzee",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/ferzee"
+}, {
+    "name": "iCCup",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/iCCup"
+}, {
+    "name": "Magic Hands",
+    "aliases": [],
+    "Location": "Georgia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Magic_Hands"
+}, {
+    "name": "Marlerino eSports",
+    "aliases": ["Marlerino eSports"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Marlerino_eSports"
+}, {
+    "name": "MEGA-LADA E-sports",
+    "aliases": ["MEGA-LADA E-sports"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/MEGA-LADA_E-sports"
+}, {
+    "name": "Moscow Five",
+    "aliases": ["Moscow Five", "M5"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Moscow_Five"
+}, {
+    "name": "NEXT.kz",
+    "aliases": [],
+    "Location": "Kazakhstan",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/NEXT.kz"
+}, {
+    "name": "NoLifer5",
+    "aliases": ["NoLifer5"],
+    "Location": "Kyrgyzstan",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/NoLifer5"
+}, {
+    "name": "NoLifer5.Reborn",
+    "aliases": [],
+    "Location": "Kyrgyzstan",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/NoLifer5.Reborn"
+}, {
+    "name": "NVMI",
+    "aliases": [],
+    "Location": "Ukraine",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/NVMI"
+}, {
+    "name": "Old but Gold",
+    "aliases": ["Old but Gold"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Old_but_Gold"
+}, {
+    "name": "Polarity",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Polarity"
+}, {
+    "name": "Positive Guys",
+    "aliases": ["Positive Guys"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Positive_Guys"
+}, {
+    "name": "Power Rangers",
+    "aliases": [],
+    "Location": "Belarus",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Power_Rangers"
+}, {
+    "name": "Rebels",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Rebels"
+}, {
+    "name": "RoX",
+    "aliases": ["RoX"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/RoX"
+}, {
+    "name": "ScaryFaceZ",
+    "aliases": ["ScaryFaceZ"],
+    "Location": "Ukraine",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/ScaryFaceZ"
+}, {
+    "name": "The Retry",
+    "aliases": ["The Retry"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/The_Retry"
+}, {
+    "name": "Vega Squadron",
+    "aliases": ["Vega Squadron"],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Vega_Squadron"
+}, {
+    "name": "Yellow Submarine",
+    "aliases": [],
+    "Location": "Russia",
+    "Region": "CIS",
+    "link": "https://liquipedia.net/dota2/Yellow_Submarine"
+}, {
+    "name": "Avalon Gaming",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Avalon_Gaming"
+}, {
+    "name": "Big God",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Big_God"
+}, {
+    "name": "Brave Heart",
+    "aliases": ["Braveheart"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Brave_Heart"
+}, {
+    "name": "CDEC Youth",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/CDEC_Youth"
+}, {
+    "name": "DeathBringer Gaming",
+    "aliases": ["DeathBringer Gaming"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/DeathBringer_Gaming"
+}, {
+    "name": "EHOME.Keen",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/EHOME.Keen"
+}, {
+    "name": "Energy Pacemaker",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Energy_Pacemaker"
+}, {
+    "name": "FTD club C",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/FTD_club_C"
+}, {
+    "name": "HyperGloryTeam",
+    "aliases": ["HyperGloryTeam", "WPC Team B", "Heart Get Together", "Team HGT", "HGT"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/HyperGloryTeam"
+}, {
+    "name": "IamPoint Club",
+    "aliases": ["IamPoint Club"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/IamPoint_Club"
+}, {
+    "name": "LGD International",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/LGD_International"
+}, {
+    "name": "LGD.Forever Young",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/LGD.Forever_Young"
+}, {
+    "name": "LV Gaming",
+    "aliases": ["LV Gaming"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/LV_Gaming"
+}, {
+    "name": "Mr Game Boy",
+    "aliases": ["Mr Game Boy"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Mr_Game_Boy"
+}, {
+    "name": "Old Boys",
+    "aliases": ["OB"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Old_Boys"
+}, {
+    "name": "Royal",
+    "aliases": ["Royal"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Royal"
+}, {
+    "name": "Speed Gaming.cn",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Speed_Gaming.cn"
+}, {
+    "name": "Team DK",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Team_DK"
+}, {
+    "name": "Team EVER",
+    "aliases": ["Team EVER"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Team_EVER"
+}, {
+    "name": "Team MAX",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Team_MAX"
+}, {
+    "name": "Team Random",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Team_Random"
+}, {
+    "name": "To.be.or.not.to.be",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/To.be.or.not.to.be"
+}, {
+    "name": "TongFu",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/TongFu"
+}, {
+    "name": "TongFu.WanZhou",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/TongFu.WanZhou"
+}, {
+    "name": "Typhoon E-Sports Club",
+    "aliases": ["Typhoon E-Sports Club"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Typhoon_E-Sports_Club"
+}, {
+    "name": "VDuoBao",
+    "aliases": ["VDuoBao", "DUOBAO"],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/VDuoBao"
+}, {
+    "name": "VGJ.Thunder",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/VGJ.Thunder"
+}, {
+    "name": "VG.Reborn",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/VG.Reborn"
+}, {
+    "name": "We Are Young",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/We_Are_Young"
+}, {
+    "name": "Wings Gaming",
+    "aliases": [],
+    "Location": "China",
+    "Region": "China",
+    "link": "https://liquipedia.net/dota2/Wings_Gaming"
+}, {
+    "name": "2Be Continued Esports",
+    "aliases": ["2Be Continued Esports"],
+    "Location": "Thailand",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/2Be_Continued_Esports"
+}, {
+    "name": "ALPHA Red",
+    "aliases": ["ALPHA Red"],
+    "Location": "Thailand",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/ALPHA_Red"
+}, {
+    "name": "Beyond Infinity",
+    "aliases": ["Beyond Infinity (BI)"],
+    "Location": "India",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Beyond_Infinity"
+}, {
+    "name": "Can't Say Wips",
+    "aliases": [],
+    "Location": "Australia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Can't_Say_Wips"
+}, {
+    "name": "Clutch Gamers",
+    "aliases": ["Clutch Gamers", "CG"],
+    "Location": "Thailand",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Clutch_Gamers"
+}, {
+    "name": "DeToNator",
+    "aliases": ["DeToNator"],
+    "Location": "Japan",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/DeToNator"
+}, {
+    "name": "Entity Gaming",
+    "aliases": ["Entity Gaming"],
+    "Location": "India",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Entity_Gaming"
+}, {
+    "name": "EVOS Esports",
+    "aliases": ["EVOS Esports"],
+    "Location": "Indonesia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/EVOS_Esports"
+}, {
+    "name": "Exclamation Mark",
+    "aliases": [],
+    "Location": "Thailand",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Exclamation_Mark"
+}, {
+    "name": "Eyes of Tiger",
+    "aliases": [],
+    "Location": "South Korea",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Eyes_of_Tiger"
+}, {
+    "name": "Fire Dragoon",
+    "aliases": ["Fire Dragoon"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Fire_Dragoon"
+}, {
+    "name": "First Departure",
+    "aliases": ["First Departure"],
+    "Location": "Singapore",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/First_Departure"
+}, {
+    "name": "G Guard Esports",
+    "aliases": [],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/G_Guard_Esports"
+}, {
+    "name": "HappyFeet",
+    "aliases": ["HappyFeet"],
+    "Location": "Philippines",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/HappyFeet"
+}, {
+    "name": "Invasion e-Sports",
+    "aliases": ["Invasion e-Sports"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Invasion_e-Sports"
+}, {
+    "name": "Mineski",
+    "aliases": [],
+    "Location": "Philippines",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Mineski"
+}, {
+    "name": "MiTH",
+    "aliases": ["MiTH.Trust"],
+    "Location": "Thailand",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/MiTH"
+}, {
+    "name": "MUFC",
+    "aliases": [],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/MUFC"
+}, {
+    "name": "MVP HOT6ix",
+    "aliases": [],
+    "Location": "South Korea",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/MVP_HOT6ix"
+}, {
+    "name": "MVP Phoenix",
+    "aliases": [],
+    "Location": "South Korea",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/MVP_Phoenix"
+}, {
+    "name": "Orange Esports",
+    "aliases": ["Orange Esports"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Orange_Esports"
+}, {
+    "name": "Orange.Taring",
+    "aliases": ["Orange.Taring"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Orange.Taring"
+}, {
+    "name": "Pokerface",
+    "aliases": [],
+    "Location": "South Korea",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Pokerface"
+}, {
+    "name": "Power Gaming",
+    "aliases": [],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Power_Gaming"
+}, {
+    "name": "Question Mark",
+    "aliases": [],
+    "Location": "Thailand",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Question_Mark"
+}, {
+    "name": "Rave",
+    "aliases": [],
+    "Location": "Philippines",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Rave"
+}, {
+    "name": "Rex Regum Qeon",
+    "aliases": ["Rex Regum Qeon"],
+    "Location": "Indonesia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Rex_Regum_Qeon"
+}, {
+    "name": "Scythe Gaming",
+    "aliases": [],
+    "Location": "Singapore",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Scythe_Gaming"
+}, {
+    "name": "Signature.Trust",
+    "aliases": [],
+    "Location": "Thailand",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Signature.Trust"
+}, {
+    "name": "Signify",
+    "aliases": ["Signify"],
+    "Location": "India",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Signify"
+}, {
+    "name": "StarTale",
+    "aliases": ["StarTale"],
+    "Location": "South Korea",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/StarTale"
+}, {
+    "name": "Team Faceless",
+    "aliases": [],
+    "Location": "Singapore",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Team_Faceless"
+}, {
+    "name": "Team Immunity",
+    "aliases": ["Team Immunity"],
+    "Location": "Australia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Team_Immunity"
+}, {
+    "name": "Team Malaysia",
+    "aliases": ["Team Malaysia"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Team_Malaysia"
+}, {
+    "name": "Team Zenith",
+    "aliases": [],
+    "Location": "Singapore",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Team_Zenith"
+}, {
+    "name": "The Prime",
+    "aliases": ["The Prime "],
+    "Location": "Indonesia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/The_Prime"
+}, {
+    "name": "Tigers",
+    "aliases": ["Tigers"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Tigers"
+}, {
+    "name": "Titan",
+    "aliases": ["Titan"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Titan"
+}, {
+    "name": "TNC Tigers",
+    "aliases": ["TNC Tigers"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/TNC_Tigers"
+}, {
+    "name": "WarriorsGaming.Unity",
+    "aliases": ["WarriorsGaming.Unity"],
+    "Location": "Malaysia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/WarriorsGaming.Unity"
+}, {
+    "name": "ZEN9",
+    "aliases": ["ZEN9"],
+    "Location": "Australia",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/ZEN9"
+}, {
+    "name": "Zephyr",
+    "aliases": [],
+    "Location": "South Korea",
+    "Region": "South East Asia",
+    "link": "https://liquipedia.net/dota2/Zephyr"
+}]

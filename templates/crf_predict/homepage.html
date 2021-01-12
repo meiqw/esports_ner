@@ -1,0 +1,37 @@
+<!doctype html>
+{% load static %}
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{% static "crf_predict/style.css" %}">
+
+    <title>Home</title>
+  </head>
+  <body>
+  <div>
+      <form method="POST" class="form-wrapper">
+            {% csrf_token %}
+            <input type="text" name="url" id="search" placeholder="Search for..." required>
+            <input type="submit" value="go" id="submit">
+      </form>
+      <p>Or select one of the test documents to tag</p>
+  </div>
+  <div class="w3-row w3-center w3-small">
+
+    {% if doc_dict %}
+        <ul>
+            {% for key, value in doc_dict.items %}
+            <li> <a href="{% url 'tagging' doc_title=key %}">{{ key }}</a>  </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+            <p> No Named Entities Recognized </p>
+        {% endif %}
+  </div>
+    <!-- Optional JavaScript -->
+  </body>
+</html>
