@@ -37,6 +37,10 @@ cd Esports_NER
 python manage.py runserver
 ```
 
+## Contribution
+
+The crf NER system is contributed by Meiqi Wang, the web application django framework is contributed by Yifan Leng.
+
 ## License
 
 This project is licensed under the MIT License 
