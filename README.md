@@ -39,7 +39,7 @@ python manage.py runserver
 
 ## Contribution
 
-The crf NER system is contributed by Meiqi Wang, the web application django framework is contributed by Yifan Leng.
+The crf NER system is contributed by Meiqi Wang and Ziyu Liu, the web application django framework is contributed by Yifan Leng.
 
 ## License
 
