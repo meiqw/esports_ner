@@ -14,7 +14,9 @@ The search bar accepts a URL or a text snippet and the web application taggs the
 
 ![demo2](https://user-images.githubusercontent.com/43922422/112531474-fec9d280-8d7d-11eb-8174-4b79f356f93b.png)
 
-Each entity links to another page that shows all the sentences with the entity in the corpus and its related information in Liquipedia(the esports wiki) with a URL.
+Each entity links to another page that shows all the occurrence of the entity in the corpus and its related information in Liquipedia(the esports wiki) with a URL.
+
+![demo3](https://user-images.githubusercontent.com/43922422/112531620-2a4cbd00-8d7e-11eb-9a7b-4803d7a569fa.png)
 
 A mention and its alias will have the same entry and URL in Liquipedia which suggests succesful named entity linking. 
 
