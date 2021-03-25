@@ -8,7 +8,9 @@ This is a Django web application that performs named entity tagging and linking 
 * PLAYER: Individuals who play and compete on the game as a career (in other words, “pro players”).
 * AVATAR: The character that a player controls. In CS:GO, it is the item that a player uses.
 
-The search bar accepts a URL or text snippet and the web application taggs the above entities from the text extracted. Each entity links to another page that shows its related information in Liquipedia with a URL. A mention and its alias will have the same entry and URL in Liquipedia which suggests succesful named entity linking. 
+The search bar accepts a URL or a text snippet and the web application taggs the above entities from the text extracted. 
+Each entity links to another page that shows all the sentences with the entity in the corpus and its related information in Liquipedia(the esports wiki) with a URL.
+A mention and its alias will have the same entry and URL in Liquipedia which suggests succesful named entity linking. 
 
 ### Prerequisites
 
